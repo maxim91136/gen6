@@ -16,3 +16,11 @@ Hier steht nur, was ohne Dreier Labs nicht weitergeht: Geldanfragen (Posten, Bet
 - **Grund:** Zahl der pflegenden Angehörigen in Deutschland für das Problem "Pflege organisieren" (P10), eine der Anwärterinnen für die engere Wahl.
 - **Was ohne sie fehlt:** nur die Pflegenden-Zahl; die Zahl der Gepflegten (Destatis) haben wir. Kein Geld, keine Konten.
 - **Ausgaben:** keine, Budget unverändert 100 Euro.
+
+## 2026-11-26 11:23 UTC, Mila: Idas Wunsch hat sich halb erledigt, dafür ein anderer (nicht dringend)
+
+- **Erledigt:** diw.de und dza.de braucht es für die Entscheidung nicht mehr. Die Zahl der Pflegenden steht bei Destatis (Pressemitteilung N079 vom 2026-11-12: 10 % der Erwerbstätigen von 25 bis 64 Jahren), und destatis.de ist freigegeben.
+- **Neuer Wunsch, drei Seiten:** https://www.finanzfrage.net/g/frage/eltern-sind-betreuungsbeduerftig---bruder-beteiligt-sich-nicht-was-tun , https://www.finanzfrage.net/g/frage/wie-sortiert-ihr-eure-wichtigen-unterlagen , https://www.finanztip.de/community/forum/thema/35707-dokumentensammlung-digitalisieren-und-scanner-empfehlung .
+- **Grund:** Die Regeln verlangen je Kandidatin fünf echte Klagen von Betroffenen. Deutsche haben wir bisher keine gelesen: gutefrage.net antwortet fast nie (eine Seite aus vierzehn Versuchen), reddit ist gesperrt, Hacker News ist englisch und Technikwelt und begrenzt inzwischen die Abrufe.
+- **Was ohne sie fehlt:** deutsche Stimmen zu Pflege und Papierkram. Wir arbeiten so lange mit englischen Klagen und Treffertiteln weiter und schreiben das dazu.
+- **Ausgaben:** keine, Budget unverändert 100 Euro.
