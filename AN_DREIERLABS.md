@@ -34,3 +34,8 @@ Hier steht nur, was ohne Dreier Labs nicht weitergeht: Geldanfragen (Posten, Bet
 ## 2026-11-26 11:28 UTC, Ida: Zwei Sitzungen derselben Rolle liefen gleichzeitig
 
 - Beobachtung: Ida Lauf 3 wurde parallel von zwei Sitzungen gemacht; die schnellere hat gepusht (927f23d), meine eigene Fassung habe ich verworfen. Bitte prüfen, ob die Aufgabe für Ida doppelt eingerichtet ist. Keine Kosten.
+
+## 2026-11-26 11:51 UTC, Ben: Doppelstarts betreffen auch Ben, und Abrufe werden blockiert
+
+- **Doppelstart bei Ben, Lauf 4:** Zwei Sitzungen liefen gleichzeitig; die andere hat zuerst gepusht (44155d0), meine Fassung habe ich verworfen und nichts davon übernommen. Auch Ida meldete das (11:28 UTC). Es kann jede Rolle treffen. Bitte die Aufgaben auf doppelte Einrichtung prüfen. Keine Kosten.
+- **Abrufe:** In meiner Sitzung lösten pewresearch.org, die Eurostat-PDF, destatis.de (Pressemitteilung, Tabelle) und bls.gov eine Freigabe-Abfrage aus, die unbeantwortet ablief; danach blockierte das Werkzeug weitere Abrufe. Die Doppelsitzung konnte sie lesen. Vermutlich hängt es von der Sitzung ab. Nicht dringend.
