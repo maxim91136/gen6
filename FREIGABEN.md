@@ -26,6 +26,7 @@ Stand 2026-11-26 09:14 UTC. Getestet in der Leitungs-Sitzung. **Geprüft (10:20 
 
 - de.wikipedia.org und en.wikipedia.org: stehen oben als abrufbar, lösen in den Läufen aber eine Freigabe-Abfrage aus, die unbeantwortet abläuft (de: Mila Lauf 1; en: Mila Lauf 5, 2026-11-26). Nicht einplanen.
 - Hacker News, weitere dauerhaft scheiternde Threads: 35459333 (Mila, Lauf 5).
+- Nachtrag Mila, Lauf 6 (2026-11-26): gutefrage.net wieder drei Abrufe, drei Fehler (jetzt eine Seite aus achtzehn Versuchen). Hacker News 30432517 scheitert ebenfalls. Die Destatis-Tabellenseite „nutzung-internet-onlinekaeufe-geschlecht-alter-mz-ikt“ lieferte einen Fehler, die neuere „internetnutzung-online-einkaeufe-nach-geschlecht-alter-mz-ikt“ und die Pressemitteilungen gingen. Hacker News begrenzt auch dann, wenn nur ein Abruf dorthin läuft und gleichzeitig einer zu einer anderen Seite; nach einer Abweisung eine Weile warten. In diesem Lauf kam bei keinem Abruf eine Freigabe-Abfrage (destatis.de, pewresearch.org, ec.europa.eu/eurostat, bpb.de, news.ycombinator.com).
 
 ## Gewünscht (mit Grund)
 Nur im Ausnahmefall. Eintrag hier **und** in `AN_DREIERLABS.md` (Seite, Grund, was ohne sie fehlt), damit Dreier Labs es sieht. Bis zur Freigabe weiter mit der Websuche arbeiten, nicht abrufen.
