@@ -23,8 +23,9 @@ Anstoß (kein Zwang): Menschen mit schnellem, unruhigem Kopf, viel Input, wenig 
 | P6 | Ämter, Banken, Schulen verlangen zu viel Zusammensuchen | ja (Pew 2016, alt) | nein | B | vielleicht |
 | P7 | Zu wenig Zeit für Freunde und Familie | ja (Destatis 2022) | nein | B | offen |
 | P8 | Hausarbeit ist ungleich verteilt und Anlass für Streit | ja (Destatis 2022) | nein (nur Treffer) | B | vielleicht |
+| P9 | Essen machen, wenn die Kraft fehlt | nein (nur Umfeldzahl) | ja (1 Thread) | B | ja |
 
-Noch kein Problem hat Stärke A. Acht von mindestens fünfzehn.
+Noch kein Problem hat Stärke A. Neun von mindestens fünfzehn.
 
 ## P1: Das Handy frisst Zeit, und Bremsen misslingt
 
@@ -96,8 +97,16 @@ Noch kein Problem hat Stärke A. Acht von mindestens fünfzehn.
 - **Was es gibt:** Putzplan-Apps und Haushalts-Apps, nicht recherchiert. Vermutung, ungeprüft: Der Markt ist voll.
 - **Lösbar:** vielleicht, auch haptisch (Karten, Tafel). Erst nach Blick auf das Bestehende.
 
+## P9: Essen machen, wenn die Kraft fehlt
+
+- **Was:** Am Ende des Tages ist nicht das Kochen das Hindernis, sondern alles darum herum: entscheiden, einkaufen, vorbereiten, abwaschen. Wer allein isst, wäscht länger ab, als er isst.
+- **Wer, wie viele:** nicht belegt. Umfeldzahl: In der EU fielen 2024 in privaten Haushalten 69 kg Lebensmittelabfälle pro Kopf an, über die Hälfte aller Lebensmittelabfälle (129 kg pro Kopf insgesamt). Eurostat über Destatis, Stand 2026-09-29, gelesen: https://www.destatis.de/Europa/DE/Thema/Land-Forstwirtschaft-Fischerei/Lebensmittelabfaelle.html . Keine deutsche Zahl auf der Seite. Die Zahl belegt **nicht**, dass fehlende Kraft die Ursache ist; sie zeigt nur, dass zwischen Einkauf und Teller viel verloren geht.
+- **Klagen, gelesen:** Hacker News zu einem Kochbuch für kraftlose Tage („The Sad Bastard Cookbook“), 2023-08-06, 654 Punkte, 433 Kommentare (das ist viel): https://news.ycombinator.com/item?id=37019228 . (1) Kochen nur für sich nach einem langen Tag als lästige Pflicht, lieber Aufgewärmtes. (2) An schwachen Tagen sind schon Einkauf, Vorbereitung und Aufräumen zu viel. (3) Jemand hilft sich mit einer festen Schablone aus vier Bausteinen und einem Einkauf für zwei Wochen. (4) Einfrieren verdirbt manchen den Geschmack. (5) Lieferdienste gibt es nicht überall, und kleine Bestellungen lohnen nicht.
+- **Was es gibt:** das Kochbuch selbst (dem Anschein nach frei erhältlich, ungeprüft), Rezept-Apps, Kochboxen, Essensplaner. Nicht recherchiert. Vermutung, ungeprüft: Der Markt für Rezepte und Wochenpläne ist voll; frei ist höchstens die Ecke „kein Plan, keine Kraft, was jetzt“.
+- **Lösbar:** ja, digital wie haptisch (Karten). Leitplanken: keine Ernährungs- oder Gesundheitsratschläge, keine Aussagen über Stimmung als Krankheit; im Thread kommt das mehrfach vor und dürfte nicht übernommen werden.
+
 ## Was fehlt (für die nächsten Läufe)
 
-- Sieben weitere Probleme, am besten aus ganz anderen Ecken: Geld im Alltag, Wohnen, Pflege von Angehörigen, Alter, Schule und Lernen, Termine und Fristen, Essen und Einkaufen, Verlegen und Vergessen von Dingen.
+- Sechs weitere Probleme, am besten aus ganz anderen Ecken: Geld im Alltag, Wohnen, Pflege von Angehörigen, Alter, Schule und Lernen, Termine und Fristen, Essen und Einkaufen, Verlegen und Vergessen von Dingen.
 - Für P2 bis P5 Zahlen zur Größe, für P1 und P6 bis P8 gelesene Klagen.
 - Deutsche Zahlen zu P1 und P6.
