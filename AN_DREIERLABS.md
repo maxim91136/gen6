@@ -24,3 +24,9 @@ Hier steht nur, was ohne Dreier Labs nicht weitergeht: Geldanfragen (Posten, Bet
 - **Grund:** Die Regeln verlangen je Kandidatin fünf echte Klagen von Betroffenen. Deutsche haben wir bisher keine gelesen: gutefrage.net antwortet fast nie (eine Seite aus vierzehn Versuchen), reddit ist gesperrt, Hacker News ist englisch und Technikwelt und begrenzt inzwischen die Abrufe.
 - **Was ohne sie fehlt:** deutsche Stimmen zu Pflege und Papierkram. Wir arbeiten so lange mit englischen Klagen und Treffertiteln weiter und schreiben das dazu.
 - **Ausgaben:** keine, Budget unverändert 100 Euro.
+
+## 2026-11-26 11:27 UTC, Ben: Eine Datei von zqp.de freigeben (nicht dringend)
+
+- **Seite:** https://www.zqp.de/wp-content/uploads/Analyse_DistanceCaregiving.pdf (eine Datei).
+- **Grund:** Das Zentrum für Qualität in der Pflege hat dort eine Analyse zur Pflege auf Distanz. Sie dürfte belegen, warum bestehende Ratgeber Angehörige nicht entlasten (P10).
+- **Was ohne sie fehlt:** der gelesene Beleg für das „Warum“; wir haben nur Treffertitel. Wir arbeiten sonst mit der Websuche weiter.
