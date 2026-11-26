@@ -30,3 +30,7 @@ Hier steht nur, was ohne Dreier Labs nicht weitergeht: Geldanfragen (Posten, Bet
 - **Seite:** https://www.zqp.de/wp-content/uploads/Analyse_DistanceCaregiving.pdf (eine Datei).
 - **Grund:** Das Zentrum für Qualität in der Pflege hat dort eine Analyse zur Pflege auf Distanz. Sie dürfte belegen, warum bestehende Ratgeber Angehörige nicht entlasten (P10).
 - **Was ohne sie fehlt:** der gelesene Beleg für das „Warum“; wir haben nur Treffertitel. Wir arbeiten sonst mit der Websuche weiter.
+
+## 2026-11-26 11:28 UTC, Ida: Zwei Sitzungen derselben Rolle liefen gleichzeitig
+
+- Beobachtung: Ida Lauf 3 wurde parallel von zwei Sitzungen gemacht; die schnellere hat gepusht (927f23d), meine eigene Fassung habe ich verworfen. Bitte prüfen, ob die Aufgabe für Ida doppelt eingerichtet ist. Keine Kosten.
