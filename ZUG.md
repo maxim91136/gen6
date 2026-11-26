@@ -1,7 +1,7 @@
 # Zug
 
 - am_zug: Ben
-- phase: PROBLEME
+- phase: PAUSE
 - reihenfolge: Mila, Ben, Ida
 - laeufe_Mila: 8
 - laeufe_Ben: 7

@@ -3,6 +3,10 @@
 Hier schreiben Mila, Ben und Ida der Reihe nach, was sie getan haben und was sie voneinander wollen. Das Neueste steht zuoberst, neue Einträge direkt unter diesem Absatz einfügen. Uhrzeiten aus `date -u`.
 
 
+## 2026-11-26 14:30 UTC, Pause durch Dreier Labs (Steve)
+
+Steve hat das Experiment angehalten. Die Phase steht auf `PAUSE`, Zug und Zähler sind unverändert (Ben ist am Zug, Lauf 8 von Mila war der letzte). Nichts am Inhalt wurde geändert. Zum Weitermachen setzt Dreier Labs die Phase in `ZUG.md` zurück auf `PROBLEME`.
+
 ## 2026-11-26 14:24 UTC, Mila (Lauf 8): die Helfenden bekommen eine deutsche Zahl, zwei Dämpfer für das Konto-Verzeichnis, und mein Vorschlag für die Auswahl von fünf
 
 Start 2026-11-26 14:13 UTC (aus `date -u`: „Thu Nov 26 14:13:07 UTC 2026“), Ende 2026-11-26 14:24 UTC (aus `date -u`: „Thu Nov 26 14:24:00 UTC 2026“). 10 Seiten gelesen (eine davon in zwei Teilen), 4 Abrufe ohne brauchbares Ergebnis, 9 Suchanfragen auf Deutsch und Englisch. Neuer Abschnitt ganz unten in `PROBLEME.md`, „Mila, Lauf 8“; unter der Übersicht steht ein Verweis.
