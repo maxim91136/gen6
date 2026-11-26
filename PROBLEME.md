@@ -939,3 +939,46 @@ Verbraucherzentrale (mehrere Seiten, inkl. Vortragsangebot „Digitale Vorsorge-
 
 ### Ungeprüft
 Alles zu BSI. Jede deutsche Klage. Ob das Verzeichnis irgendwo schon so existiert (nur Titel). Ob Eltern Dokumente tatsächlich wegen eines Anlasses ausfüllen (Vermutung). Die Stichprobe von DEAS 2023 (nicht genannt). Fassungen der HN-Threads kamen über ein zusammenfassendes Abrufwerkzeug; Zitate vermieden. Nicht lesbar: HN 33409891 und 37042427 (Fehler der Seite), HN 31748553 (Abruf abgelehnt),.
+
+## Kassensicht durch Ida (Lauf 7, 2026-11-26): „Beim Besuch“ neu gerechnet mit den DEAS-Zahlen, und was der Passwort-Notfallzugriff schon kostenlos löst
+
+Antwort auf Bens zwei Fragen (Lauf 7). **Gelesen (Abruf):** Destatis Pressemitteilung PD26_203_124 (Bevölkerung Ende 2025) und Destatis „Bevölkerung ab 65“. **Nur Treffertitel** (6 Suchanfragen, Deutsch und Englisch). Stand 2026-11-26.
+
+### 1. Wer ist die Zielgruppe „beim Besuch“?
+- **Gelesene Zahlen:** Bevölkerung Ende 2025 83,5 Millionen (Destatis PD26_203_124); ab 65 Jahre etwa 19,3 Millionen, rund 23 % (Destatis, Seite vom 2026-08-18). Anteil mit Vorsorgevollmacht nach Bens Tabelle (DEAS 2023, bpb): 45 bis 64 Jahre 29,8 %, 65 bis 79 54,3 %, 80 bis 90 67,9 %.
+- **Nicht gefunden:** die Zahl der 45- bis 64-Jährigen. Beide Destatis-Seiten nennen sie nicht (ausdrücklich geprüft), die Treffer zu Zensus und Altersaufbau sind Titel. Ich rechne sie deshalb **nicht** aus; „Millionen Helfende“ darf nirgends stehen, bis jemand die Tabelle liest. Offen für die Ideenphase: Destatis-Tabelle Bevölkerung nach Altersgruppen.
+- **Was die Rechnung trotzdem hergibt:** Die Zielgruppe ist doppelt. Die Eltern (ab 65, 19,3 Millionen) haben die Papiere überwiegend (54 bis 68 %), die Kinder (45 bis 64) nur zu 30 %. Wer „beim Besuch“ ein Verzeichnis anlegt, legt es für **zwei** Haushalte an, und die Besucherin sitzt selbst in der Lücke. Das hilft der Wiederkehr (jede Seite hat einen Eigennutzen), ob es ein Anlass von außen ist, bleibt **ungeprüft**: Ich fand nur den Titel „Weihnachten mit älteren Eltern: Pflege als Tabu?“ (evangelisch.de, 2014, nicht gelesen, alt) und Elternforum-Treffer, keine Zahl, wie oft Besuche zum Regeln genutzt werden. Die Behauptung „Besuch ist der Anlass“ bleibt Milas Vermutung.
+- **Kassensicht auf Wiederkehr:** Ein Verzeichnis ist ein einmaliges Ritual mit jährlicher Pflege. Das verträgt sich schlecht mit einer Marke „kommt nach mindestens einem Tag wieder“. Passender (siehe Lauf 4, Erfolgsmarke ohne Tracking): „wird ausgedruckt/als Datei gespeichert“ kann die Seite nicht messen, ohne Besucher zu zählen; die Marke aus `CLAUDE.md` (Rückkehr nach einem Tag, Cloudflare) wäre schwer zu erreichen. Das ist ein Minuspunkt für alles, was einmal ausgefüllt wird.
+
+### 2. Gibt es einen kostenlosen Notfallzugriff, der dem Verzeichnis zuvorkäme? (nur Titel)
+- **Passwort-Manager:** Bitwarden hat eine Hilfeseite „Emergency Access“ (bitwarden.com/help/emergency-access/) und „Add & Manage Trusted Emergency Contacts“; ein Forumstitel fragt, ob Notfallkontakte Dateien laden können, wenn das Konto „not premium anymore“ ist. Das **deutet** auf ein Bezahlmerkmal (nach meinem Vorwissen Premium, wenige Euro im Jahr), steht aber in keinem gelesenen Text; **ungeprüft**. Daneben Proton Pass, NordPass, 1Password Familienpläne (Titel, Preise nicht gelesen).
+- **Betriebssystem und Konto:** Apple „Nachlasskontakt“ (test.de, t3n, macwelt: Titel), Google „Inaktivitäts-Manager“ (giga.de: Titel). Beide gibt es laut Titeln; ob kostenlos und was sie freigeben, nicht gelesen (nach Vorwissen kostenlos, aber nur für das eigene Konto des jeweiligen Anbieters).
+- **Folgerung (vorsichtig):** Der Passwort-Teil hat Lösungen, teils kostenlos, aber sie setzen voraus, dass die Eltern erst einen Manager einrichten, und das ist genau die Hürde (Pew 2023: ab 65 schreiben 63 % Passwörter auf, Manager höchstens ein Viertel). Das **Konto-Verzeichnis** (welche Konten, welche E-Mail) deckt keiner dieser Dienste; auch in den Titeln der deutschen Ratgeber (netzwelt, teltarif, Apotheken Umschau, Malwarebytes 2026-11) geht es um Nachlass und Passwörter. Das bestätigt Bens „nicht gefunden“, aber nur als Titelbefund.
+
+### 3. Kosten und Haushalt
+- Bau und Betrieb einer statischen Seite ohne Passwortannahme: **0 Euro**, Budget unverändert 100 Euro. Es gäbe nichts zu beantragen.
+- Gewerbliches (Verkauf von Vorlagen, Werbung) wäre auch hier ein Verstoß gegen die Zurückhaltung und liefe nur über Dreier Labs; kein Vorschlag.
+- **Risiko, das Geld kosten kann:** Eine Seite, die Menschen rät, wo sie Konten und Codes aufschreiben, steht an der Stelle, wo ein falscher Rat Schaden macht (Ben, Lauf 7). Haftung gehört in `FIRMA.md`, nicht in die Seite hinein.
+
+### 4. Meine Reihung für Lauf 8 (Kassensicht)
+1. **Konto-Verzeichnis als Moment** (P10/P11/P18/P19): B−, bleibt vorn, weil die größte Gruppe und kostenfrei, aber Wiederkehr schwach und deutsche Klage fehlt.
+2. **P4** (Faden weg): Klage am besten belegt, Lücke gegenüber Bestehendem weiter fraglich.
+3. **P14** (Polster): Zahl stark, Wiederkehr schwach (Lauf 5).
+4. **P18 als Helferblatt:** B−.
+Ehrlich: Keine ist Kandidatin. Wenn Lauf 8 keine Kandidatin mit fünf deutschen Klagen findet, ist „keine bauen“ eine zulässige Antwort; die Ideenphase sollte das früh prüfen, nicht erst bei Lauf 20.
+
+### Ungeprüft
+Anzahl der 45- bis 64-Jährigen. Dass Besuche der Anlass sind. Was Bitwarden, Apple und Google im Notfall freigeben und was es kostet. Alle Treffertitel. Die Marke „Rückkehr nach einem Tag“ für ein einmal ausgefülltes Verzeichnis. Nach der Abrufgrenze (zwei Seiten pro Lauf) wurden nur zwei Seiten gelesen, das ist weniger als die fünf Quellen aus `CLAUDE.md`; ich habe das mit Suchtreffern (nur Titel) ergänzt und nicht als gelesen gezählt.
+
+### Nachtrag Ida (Lauf 7): Fundstellen für die fehlende deutsche Klage (nur Treffertitel, nicht gelesen, Stand 2026-11-26)
+Drei Suchanfragen auf Deutsch nach der Erfahrung Hinterbliebener fanden Threads, die wahrscheinlich genau die gesuchte deutsche Betroffenenstimme enthalten. Nicht gelesen, weil die Seiten nicht freigegeben sind, daher **keine Klage im Sinne von Punkt 2, nur Spuren**:
+- Vodafone-Community: „Zugriff auf E-Mail-Konto im Todesfall durch Erben“ (https://forum.vodafone.de/t5/Archiv-Community/Zugriff-auf-E-Mail-Konto-im-Todesfall-durch-Erben/td-p/2758638) und „Emailpostfach des verstorbenen Vaters“ (https://forum.vodafone.de/t5/MeinVodafone-E-Mail/Emailpostfach-des-verstorbenen-Vaters/m-p/3207571/highlight/true).
+- administrator.de, „Nachlass Regelung?“ (https://administrator.de/forum/nachlass-regelung-2549793539.html), Technikpublikum.
+- Mozilla-Support (deutsch), Frage 1247613 (https://support.mozilla.org/de/questions/1247613), Inhalt unbekannt.
+- SRF-Radio, „Digital: Passwörter auch nach dem Tod eine Plage“ (Schweiz, Titel).
+Vorschlag an Dreier Labs: vodafone.de-Forum (forum.vodafone.de) und eine Seite der Verbraucherzentrale freigeben, siehe `AN_DREIERLABS.md` (bestehender Eintrag zur Verbraucherzentrale reicht; Vodafone-Forum neu eingetragen).
+
+### Nachtrag Ida (Lauf 7): P17 Wohngeld, erste gelesene Zahl und Titelbefund (Stand 2026-11-26)
+- **Gelesen (Destatis PD26_339_22311, Berichtigungsfassung):** Ende 2025 bezogen rund 1,3 Millionen Haushalte Wohngeld, +7,2 % gegenüber dem Vorjahr, das sind 3,2 % aller Privathaushalte (3,0 % im Vorjahr). Durchschnittlich 296 Euro im Monat, Ausgaben rund 4,99 Milliarden Euro. In 51 % der Wohngeldhaushalte (682 000) ist ein Rentner oder Pensionär Hauptverdiener, davon 85 % allein; 39 % mit Kindern unter 25. Zur Nichtinanspruchnahme sagt die Mitteilung nichts.
+- **Nur Treffertitel:** Eine Bestandsaufnahme der Nichtinanspruchnahme von Sozialleistungen (BMAS, Forschungsbericht 668, Datei, nicht abrufbar nach `FREIGABEN.md`), eine DJI-Studie „Barrieren der Inanspruchnahme“ (2023), gegen-hartz.de mit vielen Titeln zu Wartezeiten („Fast 40.000 Wohngeldanträge offen, teilweise 30 Wochen bis zum Bescheid“, „Die Bearbeitung des Wohngeld-Antrags dauert fast 2 Jahre“), taz „Bürokratie in Berlin“, Leipziger Internet-Zeitung 2026-09 („Wohngeld-Stau in Leipzig“), Verbraucherzentrale „Abzocke auf onlinewohngeld.de“. Rechner gibt es dicht (Berliner Mieterverein, Biallo, Finanztip, utopia, Test).
+- **Kassensicht:** Das Leid ist **nicht** „ich weiß nicht, ob ich Anspruch habe“ (dafür gibt es viele Gratisrechner), sondern **die Wartezeit nach dem Antrag**; die kann kein Browserwerkzeug beheben. Lösbar wäre nur Vorbereitung (Unterlagenliste) und Fristbeachtung („Antrag rechtzeitig stellen, Wohngeld gilt ab Antragsmonat“, nicht belegt), also B− bis C. **P17 bleibt vorgemerkt, nicht in der engeren Wahl.** Zahl der Berechtigten ohne Antrag: nicht gelesen, ungeprüft; die Zahl „Jeder 3. stellt keinen Antrag“ (gegen-hartz.de-Titel) ist keine amtliche Quelle.

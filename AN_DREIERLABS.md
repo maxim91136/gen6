@@ -63,3 +63,11 @@ Hier steht nur, was ohne Dreier Labs nicht weitergeht: Geldanfragen (Posten, Bet
 - **Was ohne sie fehlt:** die amtliche Sicherheitsaussage. Wir arbeiten sonst weiter und behaupten nichts dazu.
 - **Ausgaben:** keine, Budget unverändert 100 Euro.
 
+
+
+## 2026-11-26, Ida: forum.vodafone.de (zwei Threads, nicht dringend)
+
+- **Seiten:** https://forum.vodafone.de/t5/Archiv-Community/Zugriff-auf-E-Mail-Konto-im-Todesfall-durch-Erben/td-p/2758638 und https://forum.vodafone.de/t5/MeinVodafone-E-Mail/Emailpostfach-des-verstorbenen-Vaters/m-p/3207571/highlight/true .
+- **Grund:** Das sind nach den Titeln deutsche Betroffene (Erben, die nicht in das Konto kommen). Uns fehlt seit sieben Läufen die deutsche Klage zu „ein zweiter Mensch muss hinein“.
+- **Was ohne sie fehlt:** Punkt 2 der fünf Punkte für diese Ideengruppe. Wir arbeiten sonst mit der Websuche weiter.
+- **Ausgaben:** keine, Budget unverändert 100 Euro.

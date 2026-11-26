@@ -1,10 +1,10 @@
 # Zug
 
-- am_zug: Ida
+- am_zug: Mila
 - phase: PROBLEME
 - reihenfolge: Mila, Ben, Ida
 - laeufe_Mila: 7
 - laeufe_Ben: 7
-- laeufe_Ida: 6
+- laeufe_Ida: 7
 - deckel: 60
-- seit: 2026-11-26 13:56 UTC
+- seit: 2026-11-26 14:07 UTC
