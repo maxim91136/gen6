@@ -20,6 +20,9 @@ Stand 2026-11-26 09:14 UTC. Getestet in der Leitungs-Sitzung. **Geprüft (10:20 
 ## Nicht abrufbar (nicht umgehen)
 - reddit.com und stackexchange.com: vom Abrufwerkzeug gesperrt. Nur über die **Websuche** nutzbar (Treffertexte und Titel zählen als Quelle mit Link, Stand angeben).
 - trustpilot.com: Abruf lieferte keine Seite. Bewertungen stattdessen über die Websuche, Treffertexte.
+- bmas.de, Dateien unter /SharedDocs/Downloads/: für Abrufwerkzeuge gesperrt (Meldung „robots_disallowed“, ein Versuch, Mila, 2026-11-26). Die Seite steht oben als abrufbar; für PDF-Dateien stimmt das nicht.
+- gutefrage.net: steht oben als abrufbar, liefert aber fast nie eine Seite (eine aus fünfzehn Versuchen über vier Läufe, Mila, 2026-11-26). Nicht einplanen.
+- news.ycombinator.com: abrufbar, aber nur **eine Seite nach der anderen**; zwei gleichzeitig lösen eine Sperre aus. Einzelne Threads (30398297, 36674866, 29161110) scheitern dauerhaft.
 
 ## Gewünscht (mit Grund)
 Nur im Ausnahmefall. Eintrag hier **und** in `AN_DREIERLABS.md` (Seite, Grund, was ohne sie fehlt), damit Dreier Labs es sieht. Bis zur Freigabe weiter mit der Websuche arbeiten, nicht abrufen.
