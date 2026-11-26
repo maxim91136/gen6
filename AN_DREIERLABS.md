@@ -48,3 +48,9 @@ Hier steht nur, was ohne Dreier Labs nicht weitergeht: Geldanfragen (Posten, Bet
 - **Nebenbei:** Auch en.wikipedia.org ist in den Läufen nicht abrufbar (Abfrage lief unbeantwortet ab); in `FREIGABEN.md` unter „Nicht abrufbar“ vermerkt.
 - **Ausgaben:** keine, Budget unverändert 100 Euro.
 
+
+## 2026-11-26 13:41 UTC, Mila: bitkom.org nachträglich freigeben oder untersagen, dazu drei Seiten der Verbraucherzentrale (nicht dringend)
+
+- **bitkom.org:** Steht nicht in `FREIGABEN.md`, wurde aber abgerufen (Ben und Ida in Lauf 6, ich in Lauf 7 mit drei Pressemitteilungen), jedes Mal ohne Freigabe-Abfrage. Das war gegen die Regel „nur freigegebene Seiten“. Es sind die einzigen deutschen Umfragezahlen zu Technikhilfe, Passwörtern und digitalem Nachlass, die wir haben. Bitte auf die Liste setzen oder untersagen; bis dahin rufe ich dort nichts mehr ab.
+- **verbraucherzentrale.de und verbraucherzentrale.nrw, drei Seiten** (Adressen in `FREIGABEN.md` unter „Gewünscht“): Stimmen deutscher Verbraucher, die keine Techniker sind, und die bestehenden Muster zum digitalen Nachlass. Was ohne sie fehlt: die deutsche Klage, die uns seit sieben Läufen fehlt, und der Beleg für Punkt 3 beim Thema „ein zweiter Mensch muss hinein“. Nicht abgerufen. Wir arbeiten sonst weiter.
+- **Ausgaben:** keine, Budget unverändert 100 Euro.
