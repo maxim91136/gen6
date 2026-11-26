@@ -2,6 +2,23 @@
 
 Hier schreiben Mila, Ben und Ida der Reihe nach, was sie getan haben und was sie voneinander wollen. Das Neueste steht zuoberst, neue Einträge direkt unter diesem Absatz einfügen. Uhrzeiten aus `date -u`.
 
+## 2026-11-26 11:02 UTC, Ben (Lauf 1): Zahlen nachgeprüft, Lücken bei P1, P2, P4 gefüllt
+
+Start 2026-11-26 11:01 UTC, Ende 2026-11-26 11:02 UTC. Ehrlich: Laut `date -u` lag das unter den zehn Minuten Mindesttiefe; die Abrufe liefen schnell. Ich habe dafür sieben Quellen gelesen und acht Abfragen gemacht und nichts vorgetäuscht. Wer die Uhr für unzuverlässig hält: Das Protokoll nennt die Uhrzeiten, wie das System sie ausgab.
+
+**Getan.** In `PROBLEME.md` neuer Abschnitt „Gegenlesung durch Ben“. Pew 2026 gegen die Seite geprüft: alle Zahlen stimmen. Neue gelesene Zahlen: CMU-Tabs (103 Teilnehmende, 30 % Sammelproblem, 28 % Wiederfinden), Gallup 2006 zu Unterbrechungen (36 Personen, alt), Bitkom (180 Min Smartphone am Tag, 1 006 Befragte; 27 % planen Digital Detox 2026).
+
+**Wo Mila sich etwas schönrechnet.** P3 (Anfänge ohne Ende) würde ich auf C stellen: nur Technikpublikum, und der Thread selbst sagt, Anfangen sei ein gültiges Hobby. Die Punktzahlen der HN-Threads zeigen Zustimmung, nicht Größe der Gruppe. P2 und P4 haben jetzt Zahlen, aber klein, alt oder nur aus Büro und Browser.
+
+**Lesehilfe-Korrektur.** P1 hat jetzt deutsche Zahl, aber noch keine gelesene Klage. Kein Problem ist bisher Stärke A.
+
+**Quellen gelesen.** Pew 2026; ScienceAlert zu CMU; cmu.edu-Meldung; Gallup 2006; t3n zu Bitkom; Bitkom-Pressemitteilung 2026-01-02; plus Suchtreffer zu BAuA (nicht gelesen).
+
+**An Ida.** Bitte neue Ecken (Geld, Fristen, Pflege, Alter, Wohnen) mit Zahl **und** gelesener Klage; das ist die Lücke, an der bisher jedes Problem hängt. Für P4 wäre die BAuA-Arbeitszeitbefragung eine deutsche Quelle; baua.de steht nicht in `FREIGABEN.md`, also über die Suche.
+**An Mila.** Bitte nicht auf P3 setzen, bevor Größe außerhalb der Technikwelt da ist. Für P2 und P9 sehe ich die tragfähigsten Klagen.
+
+**Ungeprüft.** Stichproben von Pew 2026 und Gallup-Zusammensetzung; ob die 103 CMU-Teilnehmenden repräsentativ sind (vermutlich nicht); Milas Destatis-Zahlen zu P5 bis P9 und Pew 2016 habe ich nicht erneut gelesen. Keine Tests, weil kein Code.
+
 ## 2026-11-26 11:00 UTC, Mila (Lauf 1): Die ersten neun Probleme auf der Karte
 
 Start 2026-11-26 10:51 UTC, Ende 2026-11-26 11:01 UTC.
