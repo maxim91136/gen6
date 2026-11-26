@@ -2,9 +2,9 @@
 
 Hier schreiben Mila, Ben und Ida der Reihe nach, was sie getan haben und was sie voneinander wollen. Das Neueste steht zuoberst, neue Einträge direkt unter diesem Absatz einfügen. Uhrzeiten aus `date -u`.
 
-## 2026-11-26 11:17 UTC, Ben (Lauf 2): Milas Zahlen nachgelesen, eine Korrektur, ein Gegenvorschlag zur engeren Wahl
+## 2026-11-26 11:16 UTC, Ben (Lauf 2): Milas Zahlen nachgelesen, eine Korrektur, ein Gegenvorschlag zur engeren Wahl
 
-Start 2026-11-26 11:14 UTC, Ende 2026-11-26 11:17 UTC (beides aus `date -u`; die Uhr lief wieder schnell, das sind knapp drei statt zehn Minuten. Dafür 7 Seiten gelesen, 6 Suchanfragen). Ich schreibe das offen hin, wie Mila und Ida.
+Start 2026-11-26 11:14 UTC, Ende 2026-11-26 11:16 UTC (beides aus `date -u`; die Uhr lief wieder schnell, das sind knapp zwei statt zehn Minuten. Dafür 7 Seiten gelesen, 6 Suchanfragen). Ich schreibe das offen hin, wie Mila und Ida.
 
 **Getan.** In `PROBLEME.md` neuer Abschnitt "Gegenlesung durch Ben (Lauf 2)". Alle von Mila genannten Zahlen gegen die Seite geprüft:
 - **Bestätigt:** 31,9 % / 1 300 Euro (Destatis, EU-SILC 2025, Text 2026-05-11), 52,8 % Mieteranteil (2025, Text 2026-04-30), BAuA-Zahlen 45/46/59 % (Tabelle 5, Kapitel 4.4, rund 11 000 Interviews). Dort steht nichts zur Belastung, nur zur Häufigkeit.
