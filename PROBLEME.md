@@ -34,7 +34,7 @@ Anstoß (kein Zwang): Menschen mit schnellem, unruhigem Kopf, viel Input, wenig 
 | P18 | Die Technikhilfe in der Familie: dieselbe Frage, jede Woche (Mila Lauf 6; P17 ist für Idas Wohngeld-Anwärter vorgemerkt) | ja (Destatis 2026, Eurostat 2025, Pew 2021) | ja (5 Threads, alle Hacker News, nur Helfende, keine deutsche) | **A** (Klagen nur Technikpublikum; Bestehendes fast nur Titel) | vielleicht: Blatt je Aufgabe zum Drucken; ob Ältere es annehmen, ist offen |
 | P19 | Zu viele Zugänge: Passwörter und Codes überfordern, und ein zweiter Mensch käme nicht hinein (Mila Lauf 7) | ja (Pew 2023: 69 % überfordert, USA; Deutschland nur Verhalten, Bitkom 2020 und 2023) | ja (3 Threads plus 2 Nebenfunde, alle Hacker News, keine deutsche, Ältere nur aus zweiter Hand) | **A** (Klagen Technikpublikum; Bestehendes nur Titel, wirkt dicht) | kaum: eine Seite darf nie Passwörter annehmen; nur leeres Blatt, und das gibt es zu kaufen |
 
-Nachtrag Mila Lauf 7 (2026-11-26): P19 neu, dazu Zahlen zur Gruppe ohne Helfer und eine Beobachtung quer über P10, P11, P18 und P19; Einzelheiten ganz unten im Abschnitt „Mila, Lauf 7“. Nachtrag Mila Lauf 6 (2026-11-26): P18 neu, Einzelheiten ganz unten im Abschnitt „Mila, Lauf 6“. Nachtrag Mila Lauf 4 (2026-11-26): P4, P9 und P14 ergänzt, Einzelheiten ganz unten im Abschnitt „Mila, Lauf 4“. Nachtrag Mila Lauf 3 (2026-11-26): P10 hat jetzt eine deutsche Zahl zu den Pflegenden und steht auf A; Einzelheiten ganz unten. Davor: Stand 2026-11-26, nach Mila Lauf 2: sechzehn Probleme, die Mindestzahl fünfzehn ist erreicht. Zwei haben Stärke A (P1 und P4), beide nur mit Klagen aus der Technikwelt. Die Tabelle fasst jetzt auch Bens Gegenlesung und Idas Einträge zusammen; die Einzelheiten stehen in deren Abschnitten weiter unten.
+**Nachtrag Mila Lauf 8 (2026-11-26): Vorschlag für die Auswahl von fünf (W1 bis W5, eine davon auf Bewährung), mit „fehlt zuerst“ und „raus, wenn“ je Zeile; ganz unten im Abschnitt „Mila, Lauf 8“. Ben und Ida entscheiden in ihrem Lauf 8 mit.** Nachtrag Mila Lauf 7 (2026-11-26): P19 neu, dazu Zahlen zur Gruppe ohne Helfer und eine Beobachtung quer über P10, P11, P18 und P19; Einzelheiten ganz unten im Abschnitt „Mila, Lauf 7“. Nachtrag Mila Lauf 6 (2026-11-26): P18 neu, Einzelheiten ganz unten im Abschnitt „Mila, Lauf 6“. Nachtrag Mila Lauf 4 (2026-11-26): P4, P9 und P14 ergänzt, Einzelheiten ganz unten im Abschnitt „Mila, Lauf 4“. Nachtrag Mila Lauf 3 (2026-11-26): P10 hat jetzt eine deutsche Zahl zu den Pflegenden und steht auf A; Einzelheiten ganz unten. Davor: Stand 2026-11-26, nach Mila Lauf 2: sechzehn Probleme, die Mindestzahl fünfzehn ist erreicht. Zwei haben Stärke A (P1 und P4), beide nur mit Klagen aus der Technikwelt. Die Tabelle fasst jetzt auch Bens Gegenlesung und Idas Einträge zusammen; die Einzelheiten stehen in deren Abschnitten weiter unten.
 
 ## P1: Das Handy frisst Zeit, und Bremsen misslingt
 
@@ -982,3 +982,96 @@ Vorschlag an Dreier Labs: vodafone.de-Forum (forum.vodafone.de) und eine Seite d
 - **Gelesen (Destatis PD26_339_22311, Berichtigungsfassung):** Ende 2025 bezogen rund 1,3 Millionen Haushalte Wohngeld, +7,2 % gegenüber dem Vorjahr, das sind 3,2 % aller Privathaushalte (3,0 % im Vorjahr). Durchschnittlich 296 Euro im Monat, Ausgaben rund 4,99 Milliarden Euro. In 51 % der Wohngeldhaushalte (682 000) ist ein Rentner oder Pensionär Hauptverdiener, davon 85 % allein; 39 % mit Kindern unter 25. Zur Nichtinanspruchnahme sagt die Mitteilung nichts.
 - **Nur Treffertitel:** Eine Bestandsaufnahme der Nichtinanspruchnahme von Sozialleistungen (BMAS, Forschungsbericht 668, Datei, nicht abrufbar nach `FREIGABEN.md`), eine DJI-Studie „Barrieren der Inanspruchnahme“ (2023), gegen-hartz.de mit vielen Titeln zu Wartezeiten („Fast 40.000 Wohngeldanträge offen, teilweise 30 Wochen bis zum Bescheid“, „Die Bearbeitung des Wohngeld-Antrags dauert fast 2 Jahre“), taz „Bürokratie in Berlin“, Leipziger Internet-Zeitung 2026-09 („Wohngeld-Stau in Leipzig“), Verbraucherzentrale „Abzocke auf onlinewohngeld.de“. Rechner gibt es dicht (Berliner Mieterverein, Biallo, Finanztip, utopia, Test).
 - **Kassensicht:** Das Leid ist **nicht** „ich weiß nicht, ob ich Anspruch habe“ (dafür gibt es viele Gratisrechner), sondern **die Wartezeit nach dem Antrag**; die kann kein Browserwerkzeug beheben. Lösbar wäre nur Vorbereitung (Unterlagenliste) und Fristbeachtung („Antrag rechtzeitig stellen, Wohngeld gilt ab Antragsmonat“, nicht belegt), also B− bis C. **P17 bleibt vorgemerkt, nicht in der engeren Wahl.** Zahl der Berechtigten ohne Antrag: nicht gelesen, ungeprüft; die Zahl „Jeder 3. stellt keinen Antrag“ (gegen-hartz.de-Titel) ist keine amtliche Quelle.
+
+## Mila, Lauf 8 (2026-11-26): die Helfenden bekommen eine deutsche Zahl, zwei Dämpfer, und mein Vorschlag für die Auswahl
+
+Letzter Lauf der Phase für mich. Ich habe nichts Neues mehr auf die Karte gesetzt, sondern die zwei Lücken angegangen, die Ben und Ida in Lauf 7 offen gelassen haben (wer sind die Helfenden, ist der Besuch ein Anlass), und dann ausgewählt. Stand aller Angaben: 2026-11-26. Alle Seiten kamen über das Abrufwerkzeug, das zusammenfasst; wörtliche Zitate habe ich vermieden.
+
+### Neu gelesen: Wer hilft den Eltern, und wie fühlt sich das an? (Pew 2015, mit Deutschland)
+
+Pew hat Ende 2014 in den USA, Deutschland und Italien dieselben Fragen gestellt (27. Oktober bis 18. Dezember 2014; Deutschland 1 700 Erwachsene; wie viele davon einen Elternteil ab 65 haben, steht auf den gelesenen Seiten nicht). Die Zahlen gelten für Erwachsene mit mindestens einem Elternteil ab 65 Jahren:
+
+| | Deutschland | USA | Italien |
+|---|---|---|---|
+| haben in den letzten zwölf Monaten bei Besorgungen, Hausarbeit oder Reparaturen geholfen | 68 % | 58 % | 70 % |
+| Elternteil braucht Hilfe bei seinen Angelegenheiten oder bei der Selbstversorgung | 22 % (ab 75 Jahren: 29 %) | 25 % | 38 % |
+| empfinden das Helfen als belastend | 27 % | 32 % | 15 % |
+| dasselbe, wenn der Elternteil Hilfe braucht / nicht braucht | 42 % / 20 % | 53 % / 20 % | 23 % / 6 % |
+| empfinden das Helfen als bereichernd | 84 % | 88 % | 88 % |
+| finden, von ihnen werde zu viel erwartet | 11 % (Frauen 15 %, Männer 6 %) | 8 % | 5 % |
+| Hauptlast der Pflege liegt bei bezahlter Hilfe | 28 % | 13 % | 9 % |
+
+Quellen: https://www.pewresearch.org/social-trends/2015/05/21/4-caring-for-aging-parents/ , Übersicht mit Feldzeit und Stichprobe: https://www.pewresearch.org/social-trends/2015/05/21/family-support-in-graying-societies/ , Kapitel zu den Pflichten: https://www.pewresearch.org/social-trends/2015/05/21/2-supporting-family-members/ .
+
+**Was das sagt.** Es ist die erste gelesene Zahl zum Leid der Helfenden aus Deutschland, und sie kommt nicht aus der Technikwelt. Zwei Drittel der Deutschen mit einem Elternteil ab 65 packen bei den Eltern an; belastend wird es erst, wenn der Elternteil seine Angelegenheiten nicht mehr allein schafft (42 % gegen 20 %). Das stützt Bens Verschiebung aus Lauf 7: Die Zielgruppe sind die Helfenden.
+
+**Was das nicht sagt.** Die Zahlen sind zwölf Jahre alt. „Besorgungen, Hausarbeit, Reparaturen“ ist nicht „Konten, Papiere, Zugänge“; nach Papieren hat Pew nicht gefragt. Und 84 % finden das Helfen bereichernd: Wer hier etwas baut, baut für Menschen, die gern helfen, nicht für Verzweifelte.
+
+### Neu gelesen: Wie viel Hilfe zwischen Haushalten an einem Tag stattfindet (Destatis)
+
+Zeitverwendungserhebung 2022, Personen ab 10 Jahren, Tabelle mit Stand 2025-06-06 (revidiert): An einem durchschnittlichen Tag unterstützen **7,2 %** einen anderen Haushalt (Frauen 8,1 %, Männer 6,2 %); wer es tut, ist damit im Schnitt 1 Stunde 51 Minuten beschäftigt. Was genau darunter fällt, erklärt die Tabelle nicht. Quelle: https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Einkommen-Konsum-Lebensbedingungen/Zeitverwendung/Tabellen/aktivitaeten-ehrenamt-geschlecht-zve.html
+
+Das ist die nächste Zahl, die wir zum „Besuch, bei dem etwas erledigt wird“ haben. Sie zeigt, dass es diese Besuche täglich in großer Zahl gibt und dass sie lang genug sind, um nebenher eine Sache zu regeln. Sie zeigt nicht, bei wem geholfen wird (Eltern, Nachbarn, Kinder), und nicht, dass dabei Papiere oder Konten vorkommen. **Dass der Besuch der Anlass ist, bleibt meine Vermutung**; sie ist jetzt etwas weniger aus der Luft gegriffen, mehr nicht.
+
+### Dämpfer 1: Online-Konten sind bei den Eltern seltener, als mein Zuschnitt unterstellt (Destatis)
+
+2024 nutzten in Deutschland 67 % der 16- bis 74-Jährigen Online-Banking, bei den **65- bis 74-Jährigen 44 %** (2014: 23 %), bei den 55- bis 64-Jährigen 59 %. Menschen ab 75 wurden nicht befragt. Quelle: Destatis, Zahl der Woche Nr. 38 vom 2025-09-16, https://www.destatis.de/DE/Presse/Pressemitteilungen/Zahl-der-Woche/2025/PD25_38_p002.html
+
+Für das „Konto-Verzeichnis“ heißt das: Bei den heutigen Eltern ab 75 kennen wir die Zahl gar nicht, und bei den 65- bis 74-Jährigen hat die Mehrheit das wichtigste Online-Konto nicht. Das Problem wächst (plus 21 Punkte in zehn Jahren, und die 55- bis 64-Jährigen rücken nach), aber wer es heute als Problem „der Älteren“ verkauft, übertreibt. Es ist eher ein Problem der jungen Alten und ihrer Kinder.
+
+### Dämpfer 2: Im großen Pflege-Thread kommen Zugänge und Papiere kaum vor (Hacker News)
+
+- „The quiet cost of family caregiving“, 2022-09-07, 166 Punkte, 194 Kommentare, gelesen in zwei Teilen, ganz: https://news.ycombinator.com/item?id=32738538 . Geklagt wird über Wege und Fahrten (das häufigste Thema), Medikamente, das Telefonieren mit Ärzten und Kassen, Geld, und wer in der Familie was übernimmt. **Konten, Zugänge, Passwörter und „wo liegt was“ kommen im ganzen Thread nicht vor** (beide Teile ausdrücklich danach abgefragt). Mehrere raten, Wünsche aufzuschreiben, bevor man es nicht mehr kann; ein Beitrag drängt darauf, Vollmachten zu regeln, solange der Elternteil noch unterschreiben kann. Listen, Ordner oder Vorlagen nennt niemand.
+- „Ask HN: Managing Aging Parents Finances?“, 2022-12-28, 2 Punkte, 2 Kommentare: https://news.ycombinator.com/item?id=34163764 . Der Fragende beschreibt genau unseren Fall: Vater weit weg, kein Zugang zu den Konten, Kennungen und Passwörter vergessen, immer mehr Zwei-Faktor-Abfragen, kaum Zugänge „nur zum Ansehen“, dazu wiederkehrende Zahlungen. Die zwei Antworten nennen nur Rechtliches (Vollmacht, Betreuung, zweiter Zeichnungsberechtigter in der Filiale). Kein Werkzeug, keine Vorlage.
+
+Beides zusammen: Der Fall existiert und ist genau so, wie wir ihn uns denken, aber unter Pflegenden ist er eine Sorge unter vielen und nicht die lauteste. Und die Antwort, die Menschen darauf bekommen, ist die Vollmacht. Eine Seite von uns dürfte dazu nur sagen, dass es sie gibt und wo man sich beraten lässt.
+
+### Nicht gefunden, zum dritten Mal: die Zahl der 45- bis 64-Jährigen
+
+Idas offene Zahl steht weder auf der Destatis-Themenseite zum demografischen Wandel (https://www.destatis.de/DE/Themen/Querschnitt/Demografischer-Wandel/_inhalt.html , gelesen die ersten 100 000 Zeichen) noch im Kapitel 1 des Sozialberichts 2024 (https://www.bpb.de/system/files/dokument_pdf/01_sozialbericht_24_bf.pdf , ebenso). Gelesen dort: 20 bis 66 Jahre 51,2 Millionen (Destatis, Abschnitt mit Stand 2026-03-03), ab 65 Jahre 19,3 Millionen (2025). Ich rechne die Gruppe nicht aus. Für die Ideenphase reicht vorerst der Satz „zwei Drittel derer, die einen Elternteil ab 65 haben, helfen“ (Pew 2014); die absolute Zahl fehlt.
+
+Die bpb-Seite „Wie gut sind wir aufs Alter vorbereitet?“ (https://www.bpb.de/kurz-knapp/zahlen-und-fakten/sozialbericht-2024/553103/wie-gut-sind-wir-aufs-alter-vorbereitet/ , Stand 2024-11-06) lieferte nur die Einleitung; Gründe, warum Menschen nicht vorsorgen, stehen dort nicht.
+
+### Deutsche Klagen: wieder nur Spuren
+
+Drei Abrufe bei gutefrage.net, drei Fehler (jetzt eine Seite aus einundzwanzig Versuchen). Die Titel, nicht gelesen, also **keine Klagen im Sinn von Punkt 2**:
+- zum zweiten Menschen: „Passwörter herausfinden nach Tod?“ (https://www.gutefrage.net/frage/passwoerter-herausfinden-nach-tod ), „Computer von verstorbenen Vater zurücksetzen, password unbekannt?“ (https://www.gutefrage.net/frage/computer-von-verstorbenen-vater-zuruecksetzen-password-unbekannt ), „Laptop vom Vater Passwort geschützt, was tun?“ (https://www.gutefrage.net/frage/laptop-vom-vater-passwort-geschuetzt-was-tun ).
+- zu P9: „Was nach 8 Stunden Arbeit essen, keine Lust auch noch jetzt großartig zu kochen?“ (https://www.gutefrage.net/frage/was-nach-8-stunden-arbeit-essen-keine-lust-auch-noch-jetzt-grossartig-zu-kochen ), „Seit Monaten schlechte Ernährung weil ich keine Lust habe selbst zu kochen und auch kein Geld um Essen zu gehen“ (https://www.gutefrage.net/frage/seit-monaten-schlechte-ernaehrung-weil-ich-keine-lust-habe-selbst-zu-kochen-und-auch-kein-geld-um-essen-zu-gehen-was-kann-man-dagegen-tun ), „Was esst ihr, wenn ihr keine Lust habt zu kochen?“ (https://www.gutefrage.net/frage/was-esst-ihr-wenn-ihr-keine-lust-habt-zu-kochen ), „An die, die alleine wohnen?“ (https://www.gutefrage.net/frage/an-die-die-alleine-wohnen ).
+
+Eine Suche, zehn deutsche Titel zu P9. Für kein anderes Problem der Karte hat eine einzelne Suche so viele deutsche Alltagsstimmen gezeigt. Das ist kein Beleg, aber ein Hinweis, wo deutsche Klagen zu holen wären, falls gutefrage.net je antwortet.
+
+### Mein Vorschlag für die Auswahl (Ben und Ida entscheiden in ihrem Lauf 8 mit)
+
+Die Regel verlangt drei bis fünf, gewählt nach größter Gruppe, schwächster Lösung und Machbarkeit. Ben, Ida und ich haben in Lauf 7 unabhängig dieselben vier genannt. Ich übernehme sie, lege zwei davon zusammen und setze eine fünfte auf Bewährung dazu. Zu jeder steht, welcher Beleg zuerst fehlt und woran sie scheitert; ohne ein solches Kriterium schleppen wir sie bis Lauf 20.
+
+| | Auswahl | Gruppe (gelesen) | warum das Bestehende nicht reicht (Stand) | fehlt zuerst | raus, wenn |
+|---|---|---|---|---|---|
+| **W1** | **Der zweite Mensch muss hinein** (Schnitt aus P10, P11, P19): Helfende und ihre Eltern regeln, wie der eine in die Angelegenheiten des anderen käme | 68 % derer mit Elternteil ab 65 helfen (Pew 2014); Vorsorgevollmacht bei 45 bis 64 nur 29,8 % (DEAS 2023); 45 % lehnen Nachlassregelung ab (Bitkom 2023) | Vorlagen gibt es dicht (nur Titel); belegt ist, dass sie nicht ausgefüllt werden, nicht warum | eine gelesene deutsche Betroffenenstimme; die Vorlage der Verbraucherzentrale; die Haltung des BSI zu Papier | die Vorlagen der Verbraucherzentrale das Konto-Verzeichnis ohne Passwörter schon enthalten und kurz sind; oder bis Lauf 12 keine fünf Klagen gelesen sind |
+| **W2** | **P18, die Technikhilfe in der Familie**, als das, was beim Besuch gebraucht wird | 78 % fragen bei digitalen Problemen andere, 45 % können oft anderen helfen (Bitkom 2026, gelesen von Ben, Lauf 6); in der EU haben 33 % der 65- bis 74-Jährigen mindestens Grundkenntnisse (Eurostat 2025, Lauf 6) | Blätter je Aufgabe gibt es (Ben Lauf 6: fällt durch); Werkzeuge für Helfende englisch dicht, deutsch nicht gefunden (Ida Lauf 6) | was Ältere selbst am Gerät sagen; ob Helfende etwas vorbereiten würden | bis Lauf 12 keine Stimme eines Älteren am Gerät gelesen ist und Bens Zweifel bleibt (78 % kommen mit Fragen schon zurecht) |
+| **W3** | **P4, nach der Unterbrechung ist der Faden weg** | BAuA 2023 (Häufigkeit), Pew 2020 (Leid, USA); sieben Threads | Werkzeuge an jeder Schwelle; wer den Zettel braucht, hat ihn (Lauf 5) | eine gelesene Klage über ein bestehendes Werkzeug; die Forschung zum Merkzeichen (interruptions.net, beantragt) | bis Lauf 12 kein Unterschied benennbar ist, der über „noch ein Zettel“ hinausgeht |
+| **W4** | **P14, kommt zurecht und hat trotzdem kein Polster** | Destatis 2025, Eurostat 2025, Pew 2026 | sehr dicht; was hält, ist der Dauerauftrag bei der Bank | eine Antwort auf „wozu dann eine Seite“; deutsche Klagen | die Antwort bis Lauf 12 nur „eine Karte, die man einmal liest“ bleibt und Ida bei B bleibt |
+| **W5, auf Bewährung** | **P9, Essen machen, wenn die Kraft fehlt** | nur Umfeld (Fertiggerichte plus 25,6 % in fünf Jahren, Kochzeit unverändert); ein sehr großer Thread | ungeprüft; Rezepte und Planer sind dicht, die Lage „allein, keine Kraft, kein Abwasch“ vielleicht nicht | eine Zahl zum Leid; eine gelesene Klage über Bestehendes | bis Lauf 10 keines von beidem gelesen ist |
+
+**Warum W1 und W2 getrennt bleiben, obwohl es dieselben Menschen sind.** W1 ist etwas, das man einmal regelt; W2 kommt jede Woche wieder. Ida hat recht, dass ein einmaliges Verzeichnis an unserer Erfolgsmarke scheitert. Deshalb gehört der wiederkehrende Teil (die Hilfe beim Besuch) als eigene Zeile in die Auswahl, und in der Ideenphase ist die Frage, ob das eine das andere tragen kann: der Besuch als Anlass, das Regeln als Nebenprodukt. Das ist noch keine Idee, nur der Grund für die zwei Zeilen.
+
+**Warum P9 zurückkommt, obwohl ich es in Lauf 5 zurückgezogen habe.** Ben hatte recht, und er hat es noch: P9 hat keine Zahl zum Leid. Aber W1 bis W4 haben alle denselben Fehler, den Ida seit Lauf 4 anmahnt: Niemand hätte einen Grund, am nächsten Tag wiederzukommen. P9 ist das einzige Problem der Karte, dessen Anlass täglich von selbst kommt, und das einzige, bei dem eine deutsche Suche sofort Alltagsstimmen zeigt. Ich will nicht, dass wir in die Ideenphase gehen und alle vier Auswahlen an derselben Stelle brechen. Darum ein fünfter Platz mit kurzer Frist: zwei Läufe, dann raus oder drin. Leitplanke, damit es niemand vergisst: keine Ernährungs- und keine Gesundheitsaussagen.
+
+**Was ich nicht auswähle und warum.** P19 allein (eine Seite darf nie Passwörter annehmen; der brauchbare Teil steckt in W1). P10 als Ganzes (ruht seit Lauf 3, die erbetenen Seiten sind nicht freigegeben; der Papierteil steckt in W1). P1 (geht in P4 auf). P17 Wohngeld (Idas Befund: das Leid ist die Wartezeit im Amt). P2, P3, P5 bis P8, P12, P13, P15, P16: zu schwach belegt oder ohne Lücke, Begründungen in den Läufen 2 bis 5.
+
+**Ehrlich.** Keine der fünf ist Kandidatin. W1 steht bei Ben und Ida auf B−, W2 ebenso, W3 hat nach meinem eigenen Lauf 5 keine Lücke, W4 keinen Grund für eine Seite, W5 keine Zahl. Ich teile Bens und Idas Satz, dass „keine bauen“ eine zulässige Antwort ist, und schlage dafür einen festen Punkt vor: **Nach Lauf 12 je Rolle schauen wir, welche der fünf ihre „raus, wenn“-Bedingung überlebt hat.** Lebt keine, schreiben wir das in `ENTSCHEIDUNG.md` und setzen `PAUSE`, statt bis Lauf 20 weiterzusuchen.
+
+### Was ich an der Karte als Ganzes gelernt habe (für die Ideenphase, keine Idee)
+
+1. Werkzeuge fehlen fast nirgends. Was fehlt, ist der Augenblick, in dem jemand sie benutzt. Jede Idee muss zuerst sagen, **wann** sie stattfindet und wer den Anstoß gibt.
+2. Was hält, wird einmal eingerichtet oder von außen angestoßen. Was Disziplin braucht, stirbt.
+3. Unsere gelesenen Stimmen sind zu neun Zehnteln englisch und aus der Technikwelt. Solange das so ist, wissen wir, wie sich ein Problem für Programmierer anfühlt, und sonst wenig. Der wichtigste einzelne Schritt für die Ideenphase wäre eine lesbare deutsche Alltagsquelle.
+
+### Nicht gelungen in diesem Lauf
+
+- gutefrage.net: drei Abrufe, drei Fehler.
+- bpb, Seite 553571: war die Kontaktseite des Sozialberichts, nicht das Kapitel zu Kontakten in der Familie (mein Fehler beim Lesen des Treffers). Wie oft erwachsene Kinder ihre Eltern sehen, habe ich nirgends gelesen.
+- Pew 2015: wie viele der 1 700 Deutschen einen Elternteil ab 65 haben, also die Fallzahl hinter den 68 %, steht auf den drei gelesenen Seiten nicht.
+
+### Ungeprüft
+
+Dass Besuche der Anlass zum Regeln sind. Die Zahl der 45- bis 64-Jährigen. Ob Pews Zahlen von 2014 heute noch gelten. Alles Bestehende zu W1, W2 und W5 (weiter nur Titel). Alle gutefrage-Titel. Tests gibt es keine, weil es noch keinen Code gibt.

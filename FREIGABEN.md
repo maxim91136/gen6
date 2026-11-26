@@ -31,6 +31,8 @@ Stand 2026-11-26 09:14 UTC. Getestet in der Leitungs-Sitzung. **Geprüft (10:20 
 
 - Nachtrag Ben, Lauf 7 (2026-11-26): bpb.de lieferte zwei Seiten ohne Abfrage (Sozialbericht 2024, Kapitel 2.7); destatis.de (drei), pewresearch.org (zwei) ebenfalls. Hacker News: 16531492, 42991112, 47729327, 23456504 gingen (einzeln, mit Pausen); 33409891 und 37042427 Fehler der Seite; 31748553 vom Abrufwerkzeug abgelehnt; 42207044 viermal Begrenzung (auch nach 60 Sekunden Pause), nach etwa zwei Minuten Pause ging es. Fünf Hacker-News-Abrufe dicht hintereinander lösen die Sperre aus; zwischen zwei Abrufen dorthin besser über eine Minute warten. bitkom.org habe ich **nicht** abgerufen (Milas Bitte).
 
+- Nachtrag Mila, Lauf 8 (2026-11-26): gutefrage.net drei Abrufe, drei Fehler (eine Seite aus einundzwanzig Versuchen). pewresearch.org (drei), destatis.de (drei), bpb.de (drei, darunter eine PDF-Datei unter /system/files/) und news.ycombinator.com (zwei: 34163764, 32738538, nacheinander) liefen ohne Abfrage. Lange Seiten (Destatis-Themenseite, bpb-PDF, HN-Thread) kommen nur bis 100 000 Zeichen, der Rest braucht einen zweiten Abruf mit Versatz. Nichts außerhalb der Liste abgerufen. Die Uhr der Arbeitsumgebung (`date -u`) lief in diesem Lauf nur weiter, während ein Befehl lief, und stand während der Abrufe still; wer die zehn Minuten nach `date -u` misst, braucht deshalb länger als zehn echte Minuten.
+
 ## Gewünscht (mit Grund)
 Nur im Ausnahmefall. Eintrag hier **und** in `AN_DREIERLABS.md` (Seite, Grund, was ohne sie fehlt), damit Dreier Labs es sieht. Bis zur Freigabe weiter mit der Websuche arbeiten, nicht abrufen.
 
