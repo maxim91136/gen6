@@ -18,7 +18,7 @@ Anstoß (kein Zwang): Menschen mit schnellem, unruhigem Kopf, viel Input, wenig 
 | P1 | Das Handy frisst Zeit, Bremsen misslingt | ja (Pew 2026, Bitkom) | ja (3 Threads, Mila Lauf 2) | **A** (Klagen nur Technikpublikum) | vielleicht, eher Bauplan |
 | P2 | Die Sammelhalde: Gespeichertes wächst, wird nie benutzt | klein (CMU, 103 Personen, nur Tabs) | ja (2 Threads) | B | ja |
 | P3 | Viele Anfänge, nichts wird fertig | nein | ja (1 Thread) | C (nach Bens Einwand herabgestuft) | vielleicht |
-| P4 | Nach der Unterbrechung ist der Faden weg | ja (BAuA 2023: Häufigkeit; Pew 2020: Leid, USA, alt, Mila Lauf 4) | ja (3 Threads) | **A** (Klagen Technikpublikum; Pew-Zahl zeigt es auch außerhalb) | ja; Apps an jeder Schwelle vorhanden |
+| P4 | Nach der Unterbrechung ist der Faden weg | ja (BAuA 2023: Häufigkeit; Pew 2020: Leid, USA, alt, Mila Lauf 4) | ja (7 Threads, alle Hacker News, keine deutsche; Mila Lauf 5) | **A** (Klagen Technikpublikum; Pew-Zahl zeigt es auch außerhalb) | ja; Apps an jeder Schwelle vorhanden |
 | P5 | Post bleibt ungeöffnet, aus Angst vor dem Inhalt | nein | teils (1 von 4) | B | vielleicht (Bauplan) |
 | P6 | Ämter, Banken, Schulen verlangen zu viel Zusammensuchen | ja (Pew 2016, alt) | nein | B | vielleicht |
 | P7 | Zu wenig Zeit für Freunde und Familie | ja (Destatis 2022) | nein | B | offen |
@@ -506,3 +506,65 @@ Ben hat recht. Treffer zeigen mindestens zehn deutsche Prüfangebote, darunter g
 1. **P4** (Zettel-Ritual), weil Kosten null, Marke messbar, Deutsch dünn; Risiko: Bestehendes für Programmierer dicht, Wirkung nie messbar.
 2. **P14** (Polster-Karte), mit den Vorbehalten oben (Konkurrenz sehr dicht, Unterschied schmal).
 3. Dritte Stelle **offen**; ich schlage nichts vor, was ich nicht belegen kann. P2, P10 (Ida-Votum Lauf 3 dagegen als Gemeinschaftsablage) und P15 ruhen, P9 bleibt auf B.
+
+## Mila, Lauf 5 (2026-11-26): P4 gegen die fünf Kandidaten-Punkte gehalten, mit vier neu gelesenen Threads, und warum ich den Zettel nicht mehr für die Lücke halte
+
+Stand aller Angaben: 2026-11-26. Ben und Ida haben mich gebeten, P4 als Kandidatin auszuarbeiten, mit fünf **gelesenen** deutschen oder außertechnischen Klagen. Das Erste ist getan, das Zweite nur halb, und das Ergebnis ist unbequemer als erwartet.
+
+### Neu gelesen (vier Threads bei Hacker News, je ein Abruf, zusammengefasst vom Abrufwerkzeug)
+
+- **„Ask HN: How to use small chunks of time productively“**, 2014-12-27, 109 Punkte, 55 Kommentare: https://news.ycombinator.com/item?id=8803389 . Der Fragende ist **Produktmanager**, kein Programmierer, und hat zwischen 7 und 20 Uhr nie mehr als 20 bis 30 Minuten am Stück. Klagen: (1) Große Aufgaben bleiben liegen, weil sie sich nicht teilen lassen. (2) Was sich schwer schätzen lässt, rutscht nach hinten. (3) Zwischen zwei Stücken lenkt man sich selbst ab. (4) Tiefes Arbeiten gehe nicht, wenn der nächste Wechsel in 30 Minuten droht, und das Wiedereinlesen frisst das Stück auf. (5) Fünf Minuten zum Einrichten sind für ein kleines Fenster schon zu viel. Einer mit einem fast vierjährigen Kind beschreibt dasselbe von zu Hause.
+- **Was die Leute dort tun, ist der eigentliche Fund:** Fast jeder hat sich die Wiedereinstiegshilfe **selbst gebaut**, und zwar aus dem, was herumliegt. Ein Papierjournal, in das vor jeder Aufgabe ein Satz kommt (der Aufwand sei „mikroskopisch“). Drei Textdateien namens notes, next und mental_dump. Ein Schreibblock mit Kästchen, den man nie abarbeitet, sondern umblättert. Eine nie gespeicherte Editor-Registerkarte, die tagelang offen bleibt. Ein privater Chatkanal als Tagebuch. Und einer lässt am Ende jedes Blocks **drei Minuten**, um aufzuschreiben, wo er steht. Genannt werden Trello, Asana, Evernote, eine Tabelle; keiner nennt ein Werkzeug, das eigens für den Wiedereinstieg gemacht ist.
+- **„Ask HN: What work can be done quarantined with a toddler?“**, 2020-03-23, 102 Punkte, 95 Kommentare: https://news.ycombinator.com/item?id=22664590 (die letzten rund 1 500 Zeichen der Seite nicht gelesen). Klagen von Eltern: (1) Sobald das Kind merkt, dass man sich konzentriert, lässt es alles stehen und kommt nachsehen. (2) Mehr als ein paar ruhige Minuten am Stück gibt es nicht. (3) Konzentration gelingt auch dann nicht, wenn gerade der andere Elternteil das Kind hat. (4) Mehr als zwei bis drei Stunden Arbeit am Tag seien nicht drin; ein anderer schätzt die Hälfte. (5) Wer in die Nacht ausweicht, ist erschöpft („um fünf Jahre gealtert“). Gegenstimme: Ein Vater findet spielende Kleinkinder nicht störender als ein Großraumbüro.
+- **Und hier steht das Gegenteil des ersten Threads:** In 95 Kommentaren von Eltern kommt die Notiz für den Wiedereinstieg **nicht ein einziges Mal** vor. Alles, was hilft, ist Zeitverschiebung: früh aufstehen, Mittagsschlaf nutzen, Schichten mit dem Partner, abends arbeiten. Wer gar keine zusammenhängende Zeit hat, dem fehlt nicht der Zettel, dem fehlt die Zeit.
+- **„Why interruptions are frustrating to developers“**, 2021-05-28, 138 Punkte, 164 Kommentare: https://news.ycombinator.com/item?id=27315383 (ganz gelesen, in zwei Teilen). Außerhalb des Programmierens: Ein Vater mit vier Kindern, die zu Hause unterrichtet werden; eine Anwältin oder ein Anwalt, der nach drei E-Mails in mehreren Tagen sagt, er könne mit ständigen Unterbrechungen nicht arbeiten; Hinweise auf Schreibende, Mathematiker und Musiker. Zwei Stimmen, die ich für unsere Entscheidung wichtig finde: Einer nennt das **Lernen, mit Unterbrechungen umzugehen, einen bloßen Behelf**, das eigentliche Übel sei die unnötige Unterbrechung. Und einer beobachtet, dass Führungskräfte nach einer Störung schnell wieder drin sind: Notizen holen, Dokument auf, weiter. Wessen Arbeit schon im Dokument steht, der braucht keinen Zettel.
+- **Aus dem zweiten Teil desselben Threads:** Der Verfasser des besprochenen Artikels sagt, ihn ärgere nicht die Störung, sondern dass er **nicht schnell zurückfinde**; das ist P4 in einem Satz. Einer schreibt, die Unterbrechungen hätten ihm beigebracht, dass schon das Anfangen zwecklos sei (dieselbe Klage wie in Lauf 1: die bloße Aussicht genügt). Einer ertappt sich dabei, die Partnerin anzufahren, wenn er nicht noch ein, zwei Minuten bekommt. Zum Behelf: Einer sagt dem Störer „Moment, das muss ich erst aufschreiben“, notiert, wo er war, und hilft dann; ein anderer schreibt vor Feierabend ein paar Zeilen für den nächsten Morgen. Grenzen, von den Leuten selbst genannt: die eigene Handschrift nicht mehr lesen können; die Kniffe taugen für Gewohntes, nicht für Neues, das Nachdenken verlangt; und gegen die Störung, die man sich selbst zufügt (vom Chat zu den Nachrichten zur Post), hilft kein Werkzeug.
+- **„Programmer, interrupted (2013)“**, 2016-08-27, 106 Punkte, 44 Kommentare: https://news.ycombinator.com/item?id=12374258 . Mehrere halten Notizen offen; einer sagt, **ein paar Sekunden, um den Stand auf einen Block zu schreiben, bevor man sich dem Störer zuwendet**, helfen. Niemand sagt, Notizen wirkten nicht. Die Minutenzahlen im Thread (10, 15 bis 20) stammen aus Blogs und eigener Schätzung; einer misstraut der Forschung insgesamt. Keine Zahl davon ist verwendbar.
+
+### Wie Werkzeuge für genau dieses Problem ankommen (gelesen, jetzt zwei Fälle)
+
+- **„Show HN: Park – save and recall work context across repos and machines“**, laut Seite „vor 15 Stunden“ eingestellt, also 2026-11-25 oder 2026-11-26: https://news.ycombinator.com/item?id=50583988 . Der Erbauer sagt, er „parke“ damit, woran er gerade sitzt, bevor er wechselt, und nutze es seit einem halben Jahr täglich. **4 Punkte, 3 Kommentare**, davon zwei von ihm selbst und einer zur Überschrift. Kein einziges Wort zur Sache. Ob es Geld kostet oder ein Konto braucht, steht auf der Seite nicht.
+- Zusammen mit der Seitenleiste „gegen Kontextwechsel“ aus Lauf 4 (10 Punkte, ein Kommentar) sind das zwei gelesene Fälle mit demselben Ausgang. Zwei Fälle sind keine Statistik, und Hacker News lässt die meisten Vorstellungen untergehen. Aber die Threads mit der **Klage** bekommen 100 bis 300 Punkte, die mit dem **Werkzeug** vier bis zehn.
+
+### P4 gegen die fünf Punkte aus `CLAUDE.md`
+
+| Punkt | Stand | Urteil |
+|---|---|---|
+| 1. Problem mit Quelle, Größe | BAuA 2023 (45 bis 59 % „häufig unterbrochen“, nur Häufigkeit, nur abhängig Beschäftigte), Pew 2020 (32 % der Heimarbeitenden finden ungestörtes Arbeiten schwierig; USA, Pandemie) | **erfüllt, mit Vorbehalt:** Wie viele unter dem **Wiedereinstieg** leiden, hat niemand gemessen, den wir gelesen haben |
+| 2. Fünf echte Klagen | sieben gelesene Threads, weit mehr als fünf Klagen, darunter Produktmanager, Eltern, ein Anwaltsbüro aus zweiter Hand | **erfüllt, aber einseitig:** alles Englisch, alles Hacker News. Deutsche Klage: weiter keine einzige gelesen, nach fünf Läufen |
+| 3. Drei nächste Dinge, prüfbarer Unterschied | Pause Marker, where-was-i, Context Keeper und andere: nur Titel. Gelesen ist nur die Aufnahme von Park | **nicht erfüllt.** Der vorgeschlagene Unterschied (Deutsch, Papier, für Nicht-Programmierer) ist prüfbar, aber ob er jemandem fehlt, belegt nichts. Der nächste Wettbewerber ist ohnehin kein Produkt, sondern die Textdatei |
+| 4. Machbarkeit | statische Seite, Druck, kein Konto, keine Daten | erfüllt |
+| 5. Sicherheit | kein Gesundheitsbezug, solange wir von Arbeit und Alltag sprechen und nicht von Konzentrationsschwäche | erfüllt, Ben prüft jeden Text |
+
+**P4 ist damit noch keine Kandidatin.** Es scheitert an Punkt 3, und zwar nicht aus Mangel an Fleiß, sondern weil die Seiten der Bestehenden für uns nicht abrufbar sind.
+
+### Was ich aus dem Lesen schließe (Deutung, kein Beleg)
+
+1. **Der Zettel ist nicht die Lücke.** Wer ihn braucht, hat ihn längst, aus Papier oder einer Textdatei, und ist damit zufrieden. Ein schönerer Zettel zum Ausdrucken löst ein gelöstes Problem. Das erklärt auch, warum die Werkzeuge niemanden interessieren.
+2. **Wenn es eine Lücke gibt, liegt sie im Augenblick, nicht im Blatt:** die „paar Sekunden“, bevor man sich abwendet, und die „drei Minuten“ am Ende des Blocks. Die Kniffe sind bekannt; was fehlt, ist, dass man sie im Moment der Störung auch tut. Das ist eine Gewohnheit, und Gewohnheiten sind genau das, woran laut unserem Maßstab aus Lauf 4 fast alles stirbt.
+3. **Es gibt zwei Gruppen, und wir haben sie vermengt.** Die mit zerstückelter Zeit (Produktmanager, Großraumbüro) können mit einer Notiz etwas anfangen. Die ganz ohne zusammenhängende Zeit (Eltern kleiner Kinder) nicht; ihnen hilft nur ein anderer Stundenplan, und den kann keine Webseite liefern. Die Pew-Zahl „50 % mit Kindern“ zählt also zur Größe des Leids, aber **nicht** zur Größe der Gruppe, der wir helfen könnten. Ben hat das in Lauf 4 schon geahnt („äußere Störung, nicht der unruhige Kopf“); die Eltern selbst bestätigen es.
+4. **Die ehrlichste Gegenstimme** ist die aus dem dritten Thread: Besser mit Unterbrechungen umzugehen ist ein Behelf. Ein Produkt, das den Behelf verschönert, sollte das wissen und dazusagen.
+
+### Ein Keim für die Ideenphase (nur Treffertitel, ungeprüft, ausdrücklich noch keine Idee)
+
+Im Deutschen ist die **Übergabe** eine vertraute Form: Urlaubsübergabe (Karrierebibel, mit Checkliste als PDF: https://karrierebibel.de/urlaubsuebergabe/ ), Schichtübergabe (https://www.edrawsoft.com/de/templates/daily-shift-handover-of-work-for-teams.html ), Übergabegespräch in der Pflege, Projektübergabe (ClickUp, Atlassian, Slite). Alle richten sich an **eine andere Person**. Eine Übergabe **an sich selbst** (an die, die man in zwanzig Minuten oder morgen früh ist) fand ich unter den Treffern einer Suche nicht. Das beweist nichts; eine Suche, 18 Titel, keiner gelesen. Aber es wäre ein anderer Zugang als „noch ein Notizzettel“: eine Form, die jeder aus dem Betrieb kennt, auf den eigenen Kopf gewendet. Ob das mehr ist als ein hübscher Name für die Textdatei, muss Ben zerlegen.
+
+### P14: Gibt es einen Grund zum Wiederkommen? (Idas Frage, Antwort ohne neue Quelle)
+
+Nein, jedenfalls keinen, den wir liefern. Der Anlass kommt monatlich von außen (Zahltag), aber die Handlung findet bei der Bank statt, und nach dem Dauerauftrag ist die Sache erledigt; das war mein eigener Fund aus Lauf 4. Ich folge Ida: P14 wäre eine **Karte, die man einmal braucht**, kein Werkzeug, und ihre Herabstufung auf B ist richtig. Damit hat P14 dasselbe Leiden wie P4 als Zettel: Wir könnten nur zählen, wie oft die Druckseite aufgerufen wird.
+
+### Wo die engere Wahl nach diesem Lauf steht (Milas Sicht)
+
+- **P4:** bleibt drin, aber nicht als „Zettel-Ritual“, sondern mit der offenen Frage „Was bringt jemanden dazu, die zehn Sekunden vor dem Abwenden zu nutzen?“. Ohne gelesene Bestehende keine Kandidatin.
+- **P14:** bleibt als Karte, Stärke B, mit Idas Vorbehalten.
+- **P9:** Ben hat recht, ich ziehe den Vorschlag zurück, bis jemand eine gelesene Klage über ein Merkmal der bestehenden Apps hat.
+- **Dritte Stelle:** offen. Wir haben 16 Probleme und zwei halbe Anwärter. Statt eine der ruhenden Nummern schönzureden, schlage ich vor, die Läufe 6 bis 8 für **zwei bis drei neue Probleme** zu nutzen, gesucht nach dem Maßstab aus Lauf 4: der Anlass kommt von außen wieder, und die Handlung kann auf unserer Seite stattfinden (nicht bei der Bank, nicht am Sperrbildschirm).
+
+### Nicht gelungen in diesem Lauf
+
+- en.wikipedia.org („Interruption science“): Freigabe-Abfrage lief unbeantwortet ab. Damit sind beide Wikipedia-Sprachen in Läufen nicht abrufbar.
+- Hacker News 35459333 („Programmer interrupted: The cost of interruption and context switching (2022)“): Fehler der Seite. Hacker News 2537675: lieferte nur einen einzelnen Kommentar, nichts verwendet.
+- Destatis, Statement zur Zeitverwendungserhebung 2022 (https://www.destatis.de/DE/Presse/Pressekonferenzen/2024/zve2022/statement-zve.pdf?__blob=publicationFile ): Der Abruf lieferte nur die Hüllseite, keine Zahl. Eine deutsche Zahl zum Zeitdruck von Eltern habe ich damit nicht.
+- bpb, Carstensen, „Ambivalenzen digitaler Kommunikation am Arbeitsplatz“, Aus Politik und Zeitgeschichte, 2016-04-29 (https://www.bpb.de/shop/zeitschriften/apuz/225698/ambivalenzen-digitaler-kommunikation-am-arbeitsplatz/ ): gelesen, nennt Chat und Präsenzanzeigen als Ursache von Unterbrechungen, aber keine Zahl und nichts zum Wiedereinstieg. Nicht übernommen.
+- **Die Forschung, ob eine Notiz oder Vorwarnung den Wiedereinstieg wirklich verkürzt** (Altmann und Trafton, Hodgetts und Jones, Trafton 2003, Monk 2008): wieder nur Titel, die Dateien liegen bei interruptions.net, escholarship.org und cardiff.ac.uk, alle nicht freigegeben. Solange das niemand gelesen hat, dürfen wir auf keiner Seite schreiben, dass der Zettel wirkt. Zur Zahl „23 Minuten“ gibt es mindestens zwei Beiträge, die sie anzweifeln (nur Titel: https://articles.skeptics.nz/2023/03/06/23-minutes-to-regain-focus , https://medium.com/write-rise/the-attention-span-stat-everyone-keeps-getting-wrong-91c418793ccc ); ein Grund mehr, sie nie zu verwenden.
+

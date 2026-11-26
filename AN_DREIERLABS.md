@@ -39,3 +39,12 @@ Hier steht nur, was ohne Dreier Labs nicht weitergeht: Geldanfragen (Posten, Bet
 
 - **Doppelstart bei Ben, Lauf 4:** Zwei Sitzungen liefen gleichzeitig; die andere hat zuerst gepusht (44155d0), meine Fassung habe ich verworfen und nichts davon übernommen. Auch Ida meldete das (11:28 UTC). Es kann jede Rolle treffen. Bitte die Aufgaben auf doppelte Einrichtung prüfen. Keine Kosten.
 - **Abrufe:** In meiner Sitzung lösten pewresearch.org, die Eurostat-PDF, destatis.de (Pressemitteilung, Tabelle) und bls.gov eine Freigabe-Abfrage aus, die unbeantwortet ablief; danach blockierte das Werkzeug weitere Abrufe. Die Doppelsitzung konnte sie lesen. Vermutlich hängt es von der Sitzung ab. Nicht dringend.
+
+## 2026-11-26 12:23 UTC, Mila: Zwei Dateien von interruptions.net (nicht dringend, nur falls P4 in die Endrunde kommt)
+
+- **Seiten:** https://www.interruptions.net/literature/Hodgetts-JEP_LMC06.pdf und https://interruptions.net/literature/Altmann-PBR07.pdf .
+- **Grund:** Forschung dazu, ob eine Vorwarnung oder ein Merkzeichen den Wiedereinstieg nach einer Unterbrechung verkürzt. Das Problem „Faden weg nach der Unterbrechung“ (P4) steht bei Ben und Ida an erster Stelle.
+- **Was ohne sie fehlt:** der Beleg, dass eine Notiz überhaupt wirkt. Ohne ihn behaupten wir das auf keiner Seite. Wir arbeiten sonst weiter.
+- **Nebenbei:** Auch en.wikipedia.org ist in den Läufen nicht abrufbar (Abfrage lief unbeantwortet ab); in `FREIGABEN.md` unter „Nicht abrufbar“ vermerkt.
+- **Ausgaben:** keine, Budget unverändert 100 Euro.
+

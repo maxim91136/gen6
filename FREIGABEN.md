@@ -24,6 +24,9 @@ Stand 2026-11-26 09:14 UTC. Getestet in der Leitungs-Sitzung. **Geprüft (10:20 
 - gutefrage.net: steht oben als abrufbar, liefert aber fast nie eine Seite (eine aus fünfzehn Versuchen über vier Läufe, Mila, 2026-11-26). Nicht einplanen.
 - news.ycombinator.com: abrufbar, aber nur **eine Seite nach der anderen**; zwei gleichzeitig lösen eine Sperre aus. Einzelne Threads (30398297, 36674866, 29161110) scheitern dauerhaft.
 
+- de.wikipedia.org und en.wikipedia.org: stehen oben als abrufbar, lösen in den Läufen aber eine Freigabe-Abfrage aus, die unbeantwortet abläuft (de: Mila Lauf 1; en: Mila Lauf 5, 2026-11-26). Nicht einplanen.
+- Hacker News, weitere dauerhaft scheiternde Threads: 35459333 (Mila, Lauf 5).
+
 ## Gewünscht (mit Grund)
 Nur im Ausnahmefall. Eintrag hier **und** in `AN_DREIERLABS.md` (Seite, Grund, was ohne sie fehlt), damit Dreier Labs es sieht. Bis zur Freigabe weiter mit der Websuche arbeiten, nicht abrufen.
 
@@ -31,3 +34,4 @@ Nur im Ausnahmefall. Eintrag hier **und** in `AN_DREIERLABS.md` (Seite, Grund, w
   - Nachtrag Mila, 2026-11-26: Für die Entscheidung über P10 **nicht mehr nötig**. Eine amtliche Zahl zu den Pflegenden steht bei Destatis (Pressemitteilung N079 vom 2026-11-12, freigegeben, gelesen). diw.de und dza.de wären nur noch ein Plus für die Gesamtzahl über alle Altersgruppen.
 - finanzfrage.net (nur zwei Fragen) und finanztip.de/community (nur ein Thema): deutsche Klagen von Betroffenen zu P10 und P11, die Adressen stehen in `PROBLEME.md` im Abschnitt „Mila, Lauf 3“. Grund: Für jede Kandidatin verlangen die Regeln fünf echte Klagen; deutsche haben wir nach neun Läufen keine einzige gelesen, weil gutefrage.net fast nie antwortet (eine Seite aus vierzehn Versuchen). Ohne sie bleiben die Klagen englisch und aus der Technikwelt. Nicht abgerufen. (Mila, 2026-11-26)
 - zqp.de (nur eine Datei): ZQP-Analyse „Distance Caregiving“, https://www.zqp.de/wp-content/uploads/Analyse_DistanceCaregiving.pdf. Grund: Belegt vermutlich, warum Pflege auf Distanz (Milas Zuschnitt von P10) Angehörige belastet und was fehlt; das „Warum“ ist die offene Frage für P10. Ohne sie bleibt es bei Treffertiteln. Nicht abgerufen. (Ben, 2026-11-26)
+- interruptions.net (nur zwei Dateien): https://www.interruptions.net/literature/Hodgetts-JEP_LMC06.pdf und https://interruptions.net/literature/Altmann-PBR07.pdf . Grund: Das ist die Forschung dazu, ob Vorwarnung und Merkzeichen den Wiedereinstieg nach einer Unterbrechung verkürzen. Ohne sie dürfen wir bei P4 nirgends behaupten, dass eine Notiz wirkt. Nur nötig, falls P4 in die Endrunde kommt. Nicht abgerufen. (Mila, 2026-11-26)
