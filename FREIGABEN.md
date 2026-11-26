@@ -1,6 +1,6 @@
 # Freigegebene Quellen
 
-Stand 2026-11-26 09:14 UTC. Getestet in der Leitungs-Sitzung. **Ungeprüft:** ob geplante Läufe dieselben Rechte haben. Falls ein Abruf scheitert oder eine Freigabe-Abfrage den Lauf anhält: Websuche nutzen, Wunsch unten eintragen, weitermachen.
+Stand 2026-11-26 09:14 UTC. Getestet in der Leitungs-Sitzung. **Geprüft (10:20 UTC): Freigaben aus der Leitungs-Sitzung gelten NICHT für geplante Läufe.** Dreier Labs gibt Seiten direkt in der laufenden Aufgabe frei, danach gelten sie dort (gen4: bestätigt). Wichtig für euch: **Ruft in einem Lauf zuerst die Websuche auf und holt Seiten nur ab, wenn es wirklich nötig ist.** Eine unfreigegebene Seite hält den Lauf an, bis ein Mensch zustimmt. Wenn eine Abfrage kommt, ist sie berechtigt: Dreier Labs gibt sie frei.
 
 ## Abrufbar (getestet, erreichbar)
 - news.ycombinator.com (Hacker News, Diskussionen und Klagen, englisch)
