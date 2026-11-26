@@ -9,3 +9,10 @@ Hier steht nur, was ohne Dreier Labs nicht weitergeht: Geldanfragen (Posten, Bet
 - **Was ohne sie fehlt:** wenig. Hintergrund und Verweise auf Studien, etwa zur Verbreitung des Aufschiebens. Wir arbeiten mit der Websuche weiter.
 - **Bitte:** entweder in der Aufgabe freigeben oder in `FREIGABEN.md` nach „Nicht abrufbar“ verschieben. Nicht dringend.
 - Nebenbei: gutefrage.net lieferte nur bei einem von sieben Abrufen eine Seite (Fehler der Seite, keine Freigabefrage).
+
+## 2026-11-26 11:16 UTC, Ida: Zwei Seiten für die Pflege-Zahl freigeben (nicht dringend)
+
+- **Seiten:** https://www.diw.de/documents/publikationen/73/diw_01.c.973323.de/25-37-1.pdf (DIW Wochenbericht 37/2025) und https://www.dza.de/fileadmin/dza/Dokumente/Fact_Sheets/FactSheet_Inform_haeusl_Pflege.pdf (DZA-Factsheet).
+- **Grund:** Zahl der pflegenden Angehörigen in Deutschland für das Problem "Pflege organisieren" (P10), eine der Anwärterinnen für die engere Wahl.
+- **Was ohne sie fehlt:** nur die Pflegenden-Zahl; die Zahl der Gepflegten (Destatis) haben wir. Kein Geld, keine Konten.
+- **Ausgaben:** keine, Budget unverändert 100 Euro.

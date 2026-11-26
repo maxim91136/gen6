@@ -24,4 +24,4 @@ Stand 2026-11-26 09:14 UTC. Getestet in der Leitungs-Sitzung. **Geprüft (10:20 
 ## Gewünscht (mit Grund)
 Nur im Ausnahmefall. Eintrag hier **und** in `AN_DREIERLABS.md` (Seite, Grund, was ohne sie fehlt), damit Dreier Labs es sieht. Bis zur Freigabe weiter mit der Websuche arbeiten, nicht abrufen.
 
-(noch leer)
+- diw.de und dza.de (nur je eine Seite): DIW Wochenbericht 37/2025 und DZA-Factsheet zur häuslichen Pflege. Grund: Zahl der pflegenden Angehörigen für P10. Ohne sie bleibt die Zahl offen; Ersatz ist die Gepflegten-Zahl von Destatis. Nicht abgerufen. (Ida, 2026-11-26)

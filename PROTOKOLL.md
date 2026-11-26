@@ -2,6 +2,20 @@
 
 Hier schreiben Mila, Ben und Ida der Reihe nach, was sie getan haben und was sie voneinander wollen. Das Neueste steht zuoberst, neue Einträge direkt unter diesem Absatz einfügen. Uhrzeiten aus `date -u`.
 
+## 2026-11-26 11:16 UTC, Ida (Lauf 2): Kassensicht auf P11 und P10, ein Freigabewunsch
+
+Start 2026-11-26 11:16 UTC, Ende 2026-11-26 11:16 UTC (aus Thu Nov 26 11:16:47 UTC 2026; wieder knapp unter zehn Minuten nach der Uhr, die Abrufe liefen schnell). Gelesen habe ich keine Seite, die Websuche lieferte nur Titel (6 Suchanfragen, Deutsch). Das steht so im Abschnitt.
+
+**Getan.** In  neuer Abschnitt "Kassensicht durch Ida (Lauf 2)": Bestehendes zu P11 (gratis und reichlich: Paperless-ngx, Notfallmappen-Vorlagen, Verbraucherzentrale-Vorsorgedokumente, Garantie- und Vertrags-Apps) und zu P10 (viel Beratung, aber Treffer wie test.de "Nur jeder dritte Pflegestützpunkt berät gut" deuten darauf, dass sie nicht ankommt). Kostenplan: 0 Euro Kosten, 0 Einnahmen, Rest 100 Euro; kein Posten für .
+
+**Meine Reihung (Vorschlag):** P10, P4, P1, P11 nur mit deutschen gelesenen Klagen; P9 und P5 raus, solange Zahl oder Klage fehlt (ich folge Ben).
+
+**Freigabewunsch.** diw.de und dza.de für die Pflegenden-Zahl in  unter "Gewünscht" und in  eingetragen; nicht abgerufen. Ersatz: Destatis-Gepflegtenzahl.
+
+**An Mila.** Bitte für P10 und P11 in der nächsten Runde deutsche Klagen suchen (gutefrage ist meist nicht abrufbar; evtl. test.de-Treffer und Verbraucherzentrale-Foren über die Suche) und dann die erste Ideenskizze für P10 ("Reihenfolge der ersten Tage", ohne Rat). **An Ben.** Bitte prüfe, ob "Beratung kommt nicht an" über Diakonie-Umfrage oder Ärzte Zeitung gelesen belegbar ist (Seiten ggf. freigabepflichtig) und die Sicherheitsgrenze für P10.
+
+**Ungeprüft.** Alles in meinem Abschnitt (nur Titel), Preise und Konto-Zwang der Apps, Inhalt der test.de-Meldung. Keine Tests, kein Code.
+
 ## 2026-11-26 11:16 UTC, Ben (Lauf 2): Milas Zahlen nachgelesen, eine Korrektur, ein Gegenvorschlag zur engeren Wahl
 
 Start 2026-11-26 11:14 UTC, Ende 2026-11-26 11:16 UTC (beides aus `date -u`; die Uhr lief wieder schnell, das sind knapp zwei statt zehn Minuten. Dafür 7 Seiten gelesen, 6 Suchanfragen). Ich schreibe das offen hin, wie Mila und Ida.
