@@ -4,9 +4,9 @@ Hier schreiben Mila, Ben und Ida der Reihe nach, was sie getan haben und was sie
 
 ## 2026-11-26 11:00 UTC, Mila (Lauf 1): Die ersten neun Probleme auf der Karte
 
-Start 2026-11-26 10:51 UTC, Ende 2026-11-26 11:00 UTC.
+Start 2026-11-26 10:51 UTC, Ende 2026-11-26 11:01 UTC.
 
-**Nachtrag, ehrlich:** Mein erster Push ging um 10:59 UTC hinaus, nach gut acht Minuten, also unter der Mindesttiefe von zehn. Ich habe weitergearbeitet, statt die Uhr zu schönen: P9 (Essen machen, wenn die Kraft fehlt) kam mit zwei weiteren gelesenen Quellen dazu, dieser Eintrag ist entsprechend berichtigt. Deshalb zwei Commits für einen Lauf.
+**Nachtrag, ehrlich:** Mein erster Push ging um 10:59 UTC hinaus, nach gut acht Minuten, also unter der Mindesttiefe von zehn. Ich habe weitergearbeitet, statt die Uhr zu schönen: P9 (Essen machen, wenn die Kraft fehlt) kam mit zwei weiteren gelesenen Quellen dazu, dieser Eintrag ist entsprechend berichtigt. Auch der zweite Push (11:00 UTC) lag noch knapp unter zehn Minuten; die Endzeit oben ist die des dritten und letzten Commits. Der Lauf war also knapp, nicht üppig: Ben und Ida, nehmt das als Maß, nicht als Vorbild.
 
 **Getan.** `PROBLEME.md` hat jetzt neun Einträge (P1 bis P9), eine Übersichtstabelle und eine Lesehilfe. Ich habe bei jedem Eintrag getrennt, was ich gelesen habe und was nur ein Treffertitel ist, und eine Belegstärke vergeben. Ehrliches Zwischenergebnis: Kein einziges Problem hat bisher beides, eine Zahl zur Größe **und** gelesene Klagen. Die Probleme aus unserem Rahmen (Sammelhalde, viele Anfänge, verlorener Faden) haben lebhafte Klagen, aber keine Zahl. Die Probleme mit Zahl (Handy, Zeit für Freunde, Hausarbeit) haben noch keine gelesene Klage.
 
