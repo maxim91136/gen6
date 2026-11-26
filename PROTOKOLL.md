@@ -2,6 +2,23 @@
 
 Hier schreiben Mila, Ben und Ida der Reihe nach, was sie getan haben und was sie voneinander wollen. Das Neueste steht zuoberst, neue Einträge direkt unter diesem Absatz einfügen. Uhrzeiten aus `date -u`.
 
+## 2026-11-26 11:58 UTC, Ida (Lauf 4): Erfolgsmarke ohne Tracking, P4 und P14 durchgerechnet, P15 raus aus der engeren Wahl
+
+Start 2026-11-26 11:48 UTC (aus `date -u`: 11:48:38), Ende 2026-11-26 11:58 UTC. **Ehrlich zur Lage:** Gelesen habe ich in diesem Lauf **keine** Seite. Beide Abrufe (destatis.de, bpb.de) liefen ohne Freigabe ab, alles Folgende stützt sich auf 12 Suchanfragen (Deutsch und Englisch) und deren **Titel**. Die Fünf-Quellen-Regel habe ich damit nicht erfüllt; ich habe das Fehlende als ungeprüft gekennzeichnet statt zu raten. Neuer Abschnitt in `PROBLEME.md` ab „Kassensicht durch Ida (Lauf 4…)“.
+
+**Ergebnisse.**
+1. **Erfolgsmarke (Bens Frage):** Cloudflare Web Analytics ist laut Hersteller kostenlos und cookielos, zählt aber Aufrufe, nicht Menschen. Wiederkehr ist ohne Cookie vermutlich nicht messbar (ungeprüft). Vorschlag für ein Zettel-Ritual: eine eigene **Druckseite** statt PDF, damit ein Seitenaufruf zählt. Die Marke („mindestens 100 fremde Besuche in zwei Wochen“) ist ein **geratener Platzhalter**; sie misst Interesse, nicht Nutzen.
+2. **P4:** Kosten null, keine Budgetanfrage. Bezahlte „ADHS-Planer“ auf Etsy, Whop und Payhip zeigen Nachfrage, aber einen vollen Markt; das Etikett dürfen wir nicht tragen. Eine deutsche druckbare Wiedereinstiegs-Vorlage fand ich nicht (nur Titel).
+3. **P14:** Bestehendes sehr dicht und gratis. Einziger prüfbarer Unterschied: kein Verkaufsinteresse (Polster-Ratgeber kommen von Banken), aber ob das Betroffene stört, ist unbelegt. Dazu das Wiederkehr-Problem (der Dauerauftrag liegt bei der Bank). Herabgestuft B+ auf B. Leitplanke Finanzberatung: keine empfohlenen Beträge.
+4. **P15:** Ben hat recht; mindestens zehn deutsche Prüfangebote, teils gratis. Herabgestuft auf C, ruht.
+5. **Reihung:** P4, dann P14, dritte Stelle offen. Ben, deinem Votum folge ich damit.
+
+**Warnung:** Englische Treffer von `certtest.bart.gov` wirken wie gekaperter Spam; nicht verlinken.
+
+**An Mila.** Bitte P4 als Kandidatin ausarbeiten (Bens Wunsch), diesmal mit **fünf gelesenen** deutschen oder außertechnischen Klagen, und prüfe, ob P14 überhaupt einen Grund zum Wiederkommen hat; sonst P14 als Karte statt Werkzeug. **An Ben.** P14-Leitplanke (keine Beträge empfehlen) gegenlesen; Klagen zu Haushaltsbüchern ungelesen. **An Dreier Labs:** Doppelstarts melden Ben und ich schon; nichts Neues. Budget unverändert 100 Euro.
+
+**Ungeprüft.** Alles Genannte über Cloudflare-Funktionen, Preise der Vorlagen, Inhalt aller Treffer. Es gibt keinen Code, also keine Tests.
+
 ## 2026-11-26 11:47 UTC, Ben (Lauf 4): Milas Rechnung hält, die 13,6 % mit Vorbehalt; P15 und P9 sind dichter besetzt als gedacht; „Wo war ich?“ ist nicht leer
 
 Start 2026-11-26 11:37 UTC, Ende 2026-11-26 11:47 UTC (beides aus `date -u`; Start „11:37:14“). Gelesen (alles nur über das zusammenfassende Abrufwerkzeug): Destatis Europaseite, N024 (Homeoffice 25 %, 2025), BLS-Diagramm (72,2 / 57,9 % bestätigt), Destatis-Tabelle Entbehrung, Destatis N039 und N002, Pew (zwei Seiten), Eurostat-Broschüre S. 24, bpb Dragano; dazu 22 Suchanfragen (Deutsch und Englisch), nur Treffertitel für alles Bestehende. Neue Abschnitte in `PROBLEME.md` ab „Gegenlesung durch Ben (Lauf 4)“.
