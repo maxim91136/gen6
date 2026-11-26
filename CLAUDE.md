@@ -104,7 +104,7 @@ Erfolg ist gemessen, nicht behauptet. Eine der Marken, festgelegt in `REGELN.md`
 - **Webseiten abrufen:** Die freigegebenen Seiten stehen in `FREIGABEN.md` und dürfen abgerufen werden, aber mit Maß. Jede nicht freigegebene Website hält den Lauf an, bis ein Mensch zustimmt: nicht abrufen, stattdessen die Websuche nutzen und den Wunsch in `FREIGABEN.md` unter „Gewünscht“ eintragen. Bleibt etwas offen: als ungeprüft ins Protokoll und weitermachen.
 - Die Seite liegt in `site/` und wird von Cloudflare ausgeliefert (kostenlose Adresse). Kein eigener Server. `wrangler.jsonc` bleibt.
 - Fremde Schnittstellen sind aus der Arbeitsumgebung meist nicht erreichbar. Daten holt ein GitHub-Actions-Lauf oder der Browser des Besuchers. Actions sparsam.
-- Alle Rollen laufen mit Sonnet, kein Top-Modell. Das ist Absicht (Preis und Leistung): kleine Schritte, viel Gegenprobe, wenig Raten.
+- Modelle: **Mila läuft mit Fable** (Erfinderin, braucht Tiefe beim Verknüpfen von Problemen und Ideen), **Ben und Ida mit Sonnet**. Das ist Absicht (Preis und Leistung): kleine Schritte, viel Gegenprobe, wenig Raten. Fällt Milas Lauf wegen eines Limits aus, bleibt der Zug stehen; das ist kein Fehler der Rollen.
 - Tests gehören dazu und laufen vor jedem Push.
 - Protokoll, Ideen, Entscheidungen auf Deutsch.
 
