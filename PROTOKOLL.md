@@ -2,6 +2,21 @@
 
 Hier schreiben Mila, Ben und Ida der Reihe nach, was sie getan haben und was sie voneinander wollen. Das Neueste steht zuoberst, neue Einträge direkt unter diesem Absatz einfügen. Uhrzeiten aus `date -u`.
 
+
+## 2026-11-26 13:24 UTC, Ben (Lauf 6): P18 fällt bei Punkt 3 durch, die deutsche Klage kommt nur von Helfenden
+
+Start 2026-11-26 13:14 UTC (aus `date -u`: 13:14:01), Ende 2026-11-26 13:24 UTC (aus `date -u`). Fünf Seiten gelesen (Bitkom, BAGSO-Anleitung, t3n, o2-Community, Age UK), eine gesperrt (PMC-Studie, Abfrage unbeantwortet), sechs Suchanfragen Deutsch und Englisch. Neuer Abschnitt „Gegenlesung durch Ben (Lauf 6)“ ganz unten in `PROBLEME.md`.
+
+**Zu Milas Fragen.** (1) Ein Blatt je Aufgabe zum Drucken gibt es schon, deutsch, gratis, mit Gewicht: BAGSO Digital-Kompass (CC BY 4.0, Dezember 2022, mit Notizseite), dazu Caritas, TU Dresden, digitalaustria (nur Titel). Punkt 3 ist für ein Blatt oder Handbuch also durchgefallen. Offen ist nur ein **Werkzeug für den Helfer**; ein Gratis-Werkzeug dieser Art fand ich in vier Suchen nicht (ungeprüft). (2) Deine Deutung „kurz, eine Sache, eigene Worte“ steht auf zwei neuen Stimmen schief: Beim t3n-Autor hielt ein ganzes Handbuch, nach anfänglicher Abwehr wegen des Etiketts „für Senioren“. Forschung zu Notizen bei Älteren: nur Titel, nichts gelesen. (3) Bitkom (1 005 Personen, 2026): 36 % fragen ungern, 78 % fragen, Ältere genieren sich seltener (30 %) als Junge (47 %). Das Schamproblem ist also nicht das der Eltern, und es klappt meist ohne uns.
+
+**Deutsche Klage.** t3n (2026-03-28) und o2-Community (ab 2025-09-04), zusammen etwa ein Dutzend Stimmen, aber nur Helfende, die Hälfte Moderatoren. Das ersetzt keine fünf Betroffenen-Klagen; die Älteren selbst klagen nirgends.
+
+**Vorschlag.** P18 nur als Werkzeug (Bildschirmfoto, nummerierte Schritte, A5-Blatt, alles im Browser) und nur, wenn Ida zeigt, dass der Anlass oft genug kommt. Sicherheit: nie Passwörter auf dem Blatt, Warnung vor Namen auf Bildschirmfotos.
+
+**An Mila.** Zerlege meinen Gegenvorschlag; die Frage bleibt, ob jemand das Werkzeug will, der heute schon ein Handbuch verteilen könnte. **An Ida.** Wiederkehr und Zahlungsbereitschaft für P18 als Helfer-Werkzeug; Etsy- und Payhip-Hefte lesen. **An Dreier Labs.** Nichts. Die Abrufe auf bitkom.org, digital-kompass.de, t3n.de, hilfe.o2online.de und ageuk.org.uk liefen ohne Abfrage; pmc.ncbi.nlm.nih.gov löste eine unbeantwortete Abfrage aus.
+
+**Ungeprüft.** Alle Treffertitel, die Wirkung von Notizen auf Ältere, Zahlen ab 75 Jahren, ob es ein solches Werkzeug schon gibt. Keine Tests, kein Code.
+
 ## 2026-11-26 12:56 UTC, Mila (Lauf 6): Ein neues Problem, P18: die Technikhilfe in der Familie, und wieder keine deutsche Stimme
 
 Start 2026-11-26 12:45 UTC (aus `date -u`: „Thu Nov 26 12:45:21 UTC 2026“), Ende 2026-11-26 12:56 UTC (aus `date -u`: „Thu Nov 26 12:56:06 UTC 2026“). 15 Seiten gelesen (eine davon in drei Teilen), 5 Abrufe gescheitert, 18 Suchanfragen auf Deutsch und Englisch. Neuer Abschnitt ganz unten in `PROBLEME.md`, „Mila, Lauf 6“; in der Übersicht steht die neue Zeile P18. Die Nummer P17 habe ich freigelassen, Ida hat sie in Lauf 5 für „Wohngeld wird nicht beantragt“ vorgemerkt.
