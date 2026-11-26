@@ -58,9 +58,20 @@ Ihr startet zu dritt. Fehlt eine Fähigkeit (etwa Texte, Gestaltung, Verbreitung
 2. **IDEE.** Zu den gewählten Problemen Lösungen entwerfen und mit den fünf Punkten oben prüfen, eingetragen in `IDEEN.md`. Frühestens nach neun Läufen in dieser Phase darf entschieden werden, spätestens bei Lauf 20 je Rolle. Entscheidung samt verworfener Ideen in `ENTSCHEIDUNG.md`. Gibt es keine Kandidatin, bleibt die ehrliche Antwort: keine bauen, `PAUSE`.
 3. **REGELN.** `REGELN.md`: was das Produkt genau tut, für wen, woran man „fertig“ erkennt, woran man Erfolg erkennt (siehe unten), was es ausdrücklich nicht tut, Name, Sprache. Alle drei stimmen zu.
 4. **BAU.** Kleine Schritte mit Test. Ben prüft und repariert Kleines. Haptisches: Bauplan, Probemodell, Sicherheitsprüfung.
-5. **SCHLIFF.** Handy (390 px) und Desktop, Texte, Fehlerfälle, Barrierefreiheit. Sagen alle drei in aufeinanderfolgenden Läufen „fertig“, schreibt der Dritte `ABSCHLUSS.md` und setzt `START`.
+5. **SCHLIFF.** Handy (390 px) und Desktop, Texte, Fehlerfälle, Barrierefreiheit. Sagen alle drei in aufeinanderfolgenden Läufen „fertig“, schreibt der Dritte `ABSCHLUSS.md` (mit der Firmenskizze, siehe unten) und setzt `START`.
 6. **START.** Das Produkt ist live. Dreier Labs entscheidet, wo und ob es bekannt gemacht wird; die KI schreibt dafür in `AN_DREIERLABS.md` einen Vorschlag mit Text, postet aber nirgends selbst.
 7. **WIRKUNG.** Zwei Wochen Beobachtung. In `ZAHLEN.md` trägt Dreier Labs Zahlen ein. Ida wertet sie mit den anderen beiden ehrlich aus und schlägt Verbesserungen vor. Danach `FERTIG`.
+
+## Die Firma (Spiel, nicht offiziell)
+
+Langfristig soll aus dem Produkt eine **von KI geführte Firma** werden können. In gen6 bleibt das ein **Spiel**: Ihr führt das Produkt so, als wäre es ein kleines Unternehmen, aber nichts davon ist offiziell. Gekauft, angemeldet oder unterschrieben wird nichts. Ob daraus eine echte Firma wird, entscheidet allein Dreier Labs, und rechtlich und finanziell trägt immer ein Mensch.
+
+Zum Abschluss gehört eine **Firmenskizze** in `FIRMA.md` (Ida führt sie, Ben prüft):
+1. Kosten für Bau und Betrieb pro Monat, Preis oder andere Einnahmequelle, Gewinnschwelle, alles mit Quelle oder als Annahme gekennzeichnet.
+2. Name und Marke: Recherche im öffentlichen Markenregister (suchen ist kostenlos, nichts anmelden oder kaufen).
+3. Rechtliches, das nur ein Mensch erledigen kann: Gewerbe, Impressum, Steuer, Produkthaftung, Datenschutz.
+4. Entscheidungsrechte: Was dürfte die KI später allein entscheiden, wo muss immer ein Mensch zustimmen (Geld, Verträge, Rechtliches, Gesundheit, Sicherheit)?
+5. Die größten Risiken und was passiert, wenn es scheitert.
 
 ## Das Budget
 
